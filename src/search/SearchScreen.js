@@ -6,17 +6,20 @@ import {
 	StyleSheet
 } from 'react-native';
 
-class CartScreen extends Component {
+class SearchScreen extends Component {
+	static navigationOptions = {
+		headerTitle:'搜索'
+	};
 	render(){
 		return(
 			<View style={styles.container}>
-				<Text style={styles.text}>Cart Screen</Text>
+				<Text style={styles.text}>Search Screen</Text>
 			</View>
 		)
 	}
 }
 
-export default CartScreen;
+export default SearchScreen;
 
 
 const styles = StyleSheet.create({
@@ -26,7 +29,7 @@ const styles = StyleSheet.create({
 		alignItems:'center',
 	},
 	text:{
-		color:'#35caca',
+		color:'blue',
 		fontSize:30
 	}
 });
