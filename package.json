@@ -7,8 +7,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "prop-types": "^15.6.2",
     "react": "16.4.1",
     "react-native": "0.56.0",
+    "react-native-device-info": "^0.22.6",
+    "react-native-extra-dimensions-android": "git+https://github.com/Sunhat/react-native-extra-dimensions-android.git",
+    "react-native-scrollable-tab-view": "git+https://github.com/happypancake/react-native-scrollable-tab-view.git",
     "react-navigation": "^2.11.2"
   },
   "devDependencies": {
