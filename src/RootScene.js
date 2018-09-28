@@ -14,6 +14,7 @@ import MineScreen from "./mine/MineScreen";
 import HealthScreen from "./health/HealthScreen";
 import SearchScreen from "./search/SearchScreen";
 import CategoryScreen from "./category/CategoryScreen";
+import TabBarItem from "./component/TabBarItem";
 
 
 const TabBarNavigator = createBottomTabNavigator(
@@ -23,9 +24,10 @@ const TabBarNavigator = createBottomTabNavigator(
 			navigationOptions: {
 				tabBarLabel: '首页',
 				tabBarIcon: ({focused, tintColor}) => (
-					<Image
-						source={focused ? require('../resource/tab/tab_home_selected.png') : require('../resource/tab/tab_home_default.png')}
-						style={styles.tabBarItem}
+					<TabBarItem
+						focus={focused}
+						defaultImage={require('../resource/tab/tab_home_default.png')}
+						selectedImage={require('../resource/tab/tab_home_selected.png')}
 					/>
 				)
 
@@ -36,9 +38,10 @@ const TabBarNavigator = createBottomTabNavigator(
 			navigationOptions: {
 				tabBarLabel: '发现',
 				tabBarIcon: ({focused, tintColor}) => (
-					<Image
-						source={focused ? require('../resource/tab/tab_discovery_selected.png') : require('../resource/tab/tab_discovery_default.png')}
-						style={styles.tabBarItem}
+					<TabBarItem
+						focus={focused}
+						defaultImage={require('../resource/tab/tab_discovery_default.png')}
+						selectedImage={require('../resource/tab/tab_discovery_selected.png')}
 					/>
 				)
 			}
@@ -116,6 +119,11 @@ const StackNavigator = createStackNavigator(
 					style={{width:44,height:44,marginLeft:15}}
 				/>
 			),
+			headerStyle:{
+				backgroundColor:'white',
+				borderBottomWidth:0,
+				elevation:0
+			}
 		}
 	}
 );

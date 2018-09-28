@@ -8,6 +8,7 @@ class DiscoveryScreen extends Component {
 		return(
 			<View style={styles.container}>
 				<Text style={styles.text}>Discovery Screen</Text>
+
 			</View>
 		)
 	}

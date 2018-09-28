@@ -6,16 +6,29 @@ import {
 	Button
 } from 'react-native';
 
+import ScrollableTabView, {DefaultTabBar, ScrollableTabBar} from 'react-native-scrollable-tab-view';
+
+import LifeCycleTest from "../componenttest/LifeCycleTest";
+import ProductCategoryScreen from "../category/ProductCategoryScreen";
+
 class HomeScreen extends Component {
 	render(){
 		return (
-			<View style={styles.container}>
-				<Text>Home Screen</Text>
-				<Button
-					title={'提示'}
-					onPress={() => alert('正在学习')}
-				/>
-			</View>
+			<ScrollableTabView
+				renderTabBar={() => <DefaultTabBar/>}
+				initialPage={0}
+				tabBarUnderlineStyle={{backgroundColor:'#ff3366',height:2}}
+				tabBarBackgroundColor='white'
+				tabBarActiveTextColor='#ff3366'
+				tabBarTextStyle={{marginTop:10}}
+			>
+				<ProductCategoryScreen tabLabel='首页'/>
+				<View tabLabel='海外购'/>
+				<View tabLabel='本周畅销'/>
+				<View tabLabel='199任选3'/>
+				<View tabLabel='视频购'/>
+
+			</ScrollableTabView>
 		)
 	}
 }
