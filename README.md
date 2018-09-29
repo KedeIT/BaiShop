@@ -32,7 +32,7 @@ react-native run-android
 
 #4、src文件夹目录
 
->
+```
 .
 ├── RootScene.js
 ├── cart 购物车
@@ -55,3 +55,5 @@ react-native run-android
 │   └── MineScreen.js
 └── search 搜索
     └── SearchScreen.js
+    
+```
