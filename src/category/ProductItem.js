@@ -59,7 +59,8 @@ const styles = StyleSheet.create({
 		overflow:'hidden'
 	},
 	goodsNameText:{
-		marginTop:10
+		marginTop:10,
+		marginLeft:5
 	},
 	globalBuyText:{
 		backgroundColor:'#ff3366',
@@ -69,9 +70,9 @@ const styles = StyleSheet.create({
 	saleCountText: {
 		fontSize: 12,
 		marginTop: 10,
+		marginLeft:5
 	},
 	priceText: {
-
 		color: '#ff3366',
 		fontSize: 16
 	},

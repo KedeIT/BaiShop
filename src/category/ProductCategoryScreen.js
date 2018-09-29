@@ -16,19 +16,55 @@ export default class ProductCategoryScreen extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			dataArr: [],
+			dataArr: [],//数据源
+			refreshing: true//控制FlatList自带的下拉刷新菊花状态
 		};
 
-		this.pageIndex = 1;
-		this.pageSize = 10;
+		this.pageIndex = 1;//分页索引
+		this.pageSize = 4;//分页数据大小
+		this.totalPage = 0;//总分页
+		this.isLoading = false;//是否正在上拉加载
+		this.isRefreshing = true;//是否正在下拉刷新
 	}
 
 	componentDidMount() {
-		this.requestData();
+		this.onRefresh();
 	}
 
+	//下拉刷新时执行的操作
+	onRefresh = () => {
+		if (this.isRefreshing && this.state.dataArr.length > 0) {
+			return;
+		}
+		this.pageIndex = 1;
+		console.log('下拉刷新-----> ' + this.pageIndex);
+		this.isRefreshing = true;
+		this.setState({refreshing: true});
+		this.requestData();
+	};
+	//上拉加载
+	loadMore = () => {
+		if (this.isLoading || this.pageIndex > this.totalPage) {
+			return;
+		}
+		console.log('loadMore----->');
+		this.isLoading = true;
+		this.setState({refreshing: false});
+		this.requestData();
+	};
+
+	//结束刷新
+	endRefresh = () => {
+		this.isRefreshing = false;
+		this.isLoading = false;
+		if (this.pageIndex === 1) {
+			this.setState({refreshing: false})
+		}
+	};
+
+	//请求列表数据
 	requestData = async () => {
-		let url = `https://api.baishop.com/api/Goods/Items?Cid=db509a7f-9599-4fa4-8d4f-316aaa67f813&Size=${this.pageSize}&Page=${this.pageIndex}&Sort=0`
+		let url = `https://api.baishop.com/api/Goods/Items?Cid=db509a7f-9599-4fa4-8d4f-316aaa67f813&Size=${this.pageSize}&Page=${this.pageIndex}&Sort=0`;
 
 		try {
 			let response = await fetch(url, {
@@ -40,20 +76,27 @@ export default class ProductCategoryScreen extends Component {
 					AppVersion: '1.9.0'
 				})
 			});
-			// console.log('返回数据--->',response);
-
-			if (response.ok){
+			if (response.ok) {
 				let json = await response.json();
-				// console.log('序列化--->',json)
-				this.setState({dataArr:json.Data})
-
+				if (json.State) {
+					this.totalPage = json.TotalPage;
+					this.setState((prevState) => {
+						//更新数据源数据
+						if (this.pageIndex === 1) {
+							//下拉刷新时，清空数据源
+							this.state.dataArr = [];
+						}
+						return {dataArr: prevState.dataArr.concat(json.Data)}
+					})
+				}
 			}
-		}catch (e) {
-
+			//结束刷新
+			this.endRefresh();
+			//页面索引++
+			this.pageIndex++;
+		} catch (e) {
+			this.endRefresh();
 		}
-
-
-
 	};
 
 	render() {
@@ -61,8 +104,16 @@ export default class ProductCategoryScreen extends Component {
 			<FlatList
 				data={this.state.dataArr}
 				renderItem={(item) => <ProductItem item={item}/>}
-				keyExtractor={(item, index) => index}
+				keyExtractor={(item) => {
+					console.log('keyExtractor----->',item);
+						return item.SeoCode
+					}
+				}
 				numColumns={2}
+				onRefresh={this.onRefresh}
+				refreshing={this.state.refreshing}
+				onEndReachedThreshold={0.1}
+				onEndReached={() => this.loadMore()}
 			/>
 		);
 	}
