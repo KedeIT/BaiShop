@@ -30,7 +30,7 @@ react-native run-android
 ```
 
 
-#4、src文件夹目录
+# 4、src文件夹目录
 
 ```
 .
