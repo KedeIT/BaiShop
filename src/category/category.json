@@ -1,0 +1,2357 @@
+{
+    "Data": [
+        {
+            "Id": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+            "Img": "",
+            "SeoCode": "fc",
+            "MobileClassName": "全球购",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "78fb2b6b-ce09-4638-a6e0-14615100fd06",
+                    "Img": "",
+                    "SeoCode": "xlcp",
+                    "MobileClassName": "炫丽彩片(全球购）",
+                    "ParentID": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+                    "Child": [
+                        {
+                            "Id": "db509a7f-9599-4fa4-8d4f-316aaa67f813",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/db509a7f-9599-4fa4-8d4f-316aaa67f813.jpg",
+                            "SeoCode": "rqbk",
+                            "MobileClassName": "人气爆款",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "b563f7d1-7548-43a4-8ca7-091563fc4b73",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b563f7d1-7548-43a4-8ca7-091563fc4b73.jpg",
+                            "SeoCode": "qscp",
+                            "MobileClassName": "强生",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "a4304042-9f95-4b2d-bae0-bd11e3c39957",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a4304042-9f95-4b2d-bae0-bd11e3c39957.jpg",
+                            "SeoCode": "zmt",
+                            "MobileClassName": "妆美堂",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "641230c3-f396-43ee-a2fa-ece0080e922d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/641230c3-f396-43ee-a2fa-ece0080e922d.jpg",
+                            "SeoCode": "xo",
+                            "MobileClassName": "星欧",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "a0ed8564-3323-4716-893b-7de8050ca272",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a0ed8564-3323-4716-893b-7de8050ca272.jpg",
+                            "SeoCode": "jm",
+                            "MobileClassName": "加美",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "2a4991ac-8130-4648-820e-526da705d4e7",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2a4991ac-8130-4648-820e-526da705d4e7.jpg",
+                            "SeoCode": "mrk",
+                            "MobileClassName": "美若康",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "252c0267-0eac-4090-80bd-d4a13e91dc0d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/252c0267-0eac-4090-80bd-d4a13e91dc0d.jpg",
+                            "SeoCode": "htrp",
+                            "MobileClassName": "日抛",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "255f523e-a94b-44e1-86a6-e6e5e42ba625",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/255f523e-a94b-44e1-86a6-e6e5e42ba625.jpg",
+                            "SeoCode": "yp",
+                            "MobileClassName": "月抛",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "2a0e7304-cba2-443e-8d25-8fe309e65f27",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2a0e7304-cba2-443e-8d25-8fe309e65f27.jpg",
+                            "SeoCode": "olens",
+                            "MobileClassName": "olens",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        },
+                        {
+                            "Id": "2775ea36-0b5c-446d-81eb-ccb4aaf51dfc",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2775ea36-0b5c-446d-81eb-ccb4aaf51dfc.jpg",
+                            "SeoCode": "rb",
+                            "MobileClassName": "日本",
+                            "ParentID": "78fb2b6b-ce09-4638-a6e0-14615100fd06"
+                        }
+                    ]
+                },
+                {
+                    "Id": "7aced6e0-0d6b-42da-a911-11e9147f8865",
+                    "Img": "",
+                    "SeoCode": "pzbp",
+                    "MobileClassName": "品质白片（全球购）",
+                    "ParentID": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+                    "Child": [
+                        {
+                            "Id": "b553506e-5653-4b1e-9f72-ab84c4e78c30",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b553506e-5653-4b1e-9f72-ab84c4e78c30.jpg",
+                            "SeoCode": "qiangsheng",
+                            "MobileClassName": "强生",
+                            "ParentID": "7aced6e0-0d6b-42da-a911-11e9147f8865"
+                        },
+                        {
+                            "Id": "ae41cde5-8689-4eea-a2f3-7afbb5efcf74",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ae41cde5-8689-4eea-a2f3-7afbb5efcf74.jpg",
+                            "SeoCode": "boshilun",
+                            "MobileClassName": "博士伦",
+                            "ParentID": "7aced6e0-0d6b-42da-a911-11e9147f8865"
+                        },
+                        {
+                            "Id": "8a934280-88cb-4949-a3cf-e4c9efc70419",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/8a934280-88cb-4949-a3cf-e4c9efc70419.jpg",
+                            "SeoCode": "gengduo",
+                            "MobileClassName": "更多品牌",
+                            "ParentID": "7aced6e0-0d6b-42da-a911-11e9147f8865"
+                        }
+                    ]
+                },
+                {
+                    "Id": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a",
+                    "Img": "",
+                    "SeoCode": "mzgh",
+                    "MobileClassName": "美妆个护（全球购）",
+                    "ParentID": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+                    "Child": [
+                        {
+                            "Id": "7358b5ec-f93e-47f1-94e4-606c0aa9a6d8",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7358b5ec-f93e-47f1-94e4-606c0aa9a6d8.jpg",
+                            "SeoCode": "mianmo",
+                            "MobileClassName": "面膜",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "fd59d02e-ec2d-46a2-bab8-4a4e6b1b02c9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fd59d02e-ec2d-46a2-bab8-4a4e6b1b02c9.jpg",
+                            "SeoCode": "mianbuqingjie",
+                            "MobileClassName": "面部清洁",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "1f3234d8-8687-4adf-9ed6-eed285019b0e",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1f3234d8-8687-4adf-9ed6-eed285019b0e.jpg",
+                            "SeoCode": "huazhuangshui",
+                            "MobileClassName": "化妆水",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "9d8596b3-0861-4290-8046-bbf167510787",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9d8596b3-0861-4290-8046-bbf167510787.jpg",
+                            "SeoCode": "ruye",
+                            "MobileClassName": "乳液",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "b4b5695f-7208-4926-96c2-93f6108a19b2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b4b5695f-7208-4926-96c2-93f6108a19b2.jpg",
+                            "SeoCode": "mianbujinghua",
+                            "MobileClassName": "面部精华",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "2fefa2bd-36ca-46c8-8be7-910f6a2e9c07",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2fefa2bd-36ca-46c8-8be7-910f6a2e9c07.jpg",
+                            "SeoCode": "fangshaixiuhu",
+                            "MobileClassName": "防晒修护",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "db546862-8a33-478b-b892-a990d8c4c9d0",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/db546862-8a33-478b-b892-a990d8c4c9d0.jpg",
+                            "SeoCode": "xiezhuang",
+                            "MobileClassName": "卸妆产品",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "9997a070-10fc-4d9d-9ba8-ddd8f4a5aa7d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9997a070-10fc-4d9d-9ba8-ddd8f4a5aa7d.jpg",
+                            "SeoCode": "nanshihufu",
+                            "MobileClassName": "男士护肤",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "55b16836-44cf-4da7-96ca-8c318ed3c424",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/55b16836-44cf-4da7-96ca-8c318ed3c424.jpg",
+                            "SeoCode": "xiangshuiquan",
+                            "MobileClassName": "香水彩妆",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "fd6bdb14-4fbe-46b7-82a0-e1ff00a42db5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fd6bdb14-4fbe-46b7-82a0-e1ff00a42db5.jpg",
+                            "SeoCode": "kouqiangquan",
+                            "MobileClassName": "口腔护理",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "068fd308-b829-4fc5-8c2d-9abd116600fd",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/068fd308-b829-4fc5-8c2d-9abd116600fd.jpg",
+                            "SeoCode": "xifaquan",
+                            "MobileClassName": "洗发护发",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "c0c3be98-1465-4a83-b666-6bd0cc06da45",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c0c3be98-1465-4a83-b666-6bd0cc06da45.jpg",
+                            "SeoCode": "meizhuanggongju",
+                            "MobileClassName": "美妆工具",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        },
+                        {
+                            "Id": "deb01a5a-4427-4ec7-9d8a-18c1cd803742",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/deb01a5a-4427-4ec7-9d8a-18c1cd803742.jpg",
+                            "SeoCode": "shentiquan",
+                            "MobileClassName": "身体护理",
+                            "ParentID": "ae3af648-5b0e-4b31-a4a1-e41d1372bf8a"
+                        }
+                    ]
+                },
+                {
+                    "Id": "5f643f5d-050a-4575-9bd9-a5f8709e7054",
+                    "Img": "",
+                    "SeoCode": "rcjj",
+                    "MobileClassName": "日常家居（全球购）",
+                    "ParentID": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+                    "Child": [
+                        {
+                            "Id": "48e99205-26c2-4707-98a8-609daa5bd930",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/48e99205-26c2-4707-98a8-609daa5bd930.png",
+                            "SeoCode": "ssps",
+                            "MobileClassName": "首饰配饰",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "72c0247d-074e-45ae-99f4-4b31b58b3bca",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/72c0247d-074e-45ae-99f4-4b31b58b3bca.jpg",
+                            "SeoCode": "jtqj",
+                            "MobileClassName": "家庭清洁",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "9726511a-1eb8-47c6-aa1a-7160e2e76395",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9726511a-1eb8-47c6-aa1a-7160e2e76395.jpg",
+                            "SeoCode": "ghjk",
+                            "MobileClassName": "个护健康",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "4230a64c-a673-435d-8dab-9bc7f465b590",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4230a64c-a673-435d-8dab-9bc7f465b590.jpg",
+                            "SeoCode": "qwsj",
+                            "MobileClassName": "驱蚊杀菌",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "445c42cf-3302-46c3-a05f-0a8ff399f950",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/445c42cf-3302-46c3-a05f-0a8ff399f950.jpg",
+                            "SeoCode": "ywqj",
+                            "MobileClassName": "衣物清洁",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "478dc10d-45a0-434d-a7cc-5f3efcf8d491",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/478dc10d-45a0-434d-a7cc-5f3efcf8d491.jpg",
+                            "SeoCode": "xsyt",
+                            "MobileClassName": "洗晒熨烫",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "1172d576-3cf6-423b-832f-af0ecc31c170",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1172d576-3cf6-423b-832f-af0ecc31c170.jpg",
+                            "SeoCode": "zfq",
+                            "MobileClassName": "直发器",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "f3691942-fa4c-4fa3-9acc-33b9b68bf9fb",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f3691942-fa4c-4fa3-9acc-33b9b68bf9fb.jpg",
+                            "SeoCode": "txd",
+                            "MobileClassName": "剃须刀",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "65aa3763-1aa9-4c79-bf93-52bf383311b5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/65aa3763-1aa9-4c79-bf93-52bf383311b5.jpg",
+                            "SeoCode": "ys",
+                            "MobileClassName": "牙刷",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "68d2784e-0549-4db1-a81e-a97815b1a2f4",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/68d2784e-0549-4db1-a81e-a97815b1a2f4.jpg",
+                            "SeoCode": "td",
+                            "MobileClassName": "台灯",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "97e67892-80ba-42fb-b2a2-9cb0bd8edd06",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/97e67892-80ba-42fb-b2a2-9cb0bd8edd06.jpg",
+                            "SeoCode": "ej",
+                            "MobileClassName": "耳机",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "365abbfc-9669-45e3-9a07-37d633fb6c0a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/365abbfc-9669-45e3-9a07-37d633fb6c0a.jpg",
+                            "SeoCode": "dycz",
+                            "MobileClassName": "电源插座",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "4e08499e-0a80-41fa-8a2a-a96971e09bd1",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4e08499e-0a80-41fa-8a2a-a96971e09bd1.jpg",
+                            "SeoCode": "lvwc",
+                            "MobileClassName": "旅游外出",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "a9c8d2f8-92a0-4efd-b69a-676c2b161144",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a9c8d2f8-92a0-4efd-b69a-676c2b161144.jpg",
+                            "SeoCode": "qzb",
+                            "MobileClassName": "签字笔",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "5a98febe-0b7c-4cbc-8994-ae0df888a355",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5a98febe-0b7c-4cbc-8994-ae0df888a355.jpg",
+                            "SeoCode": "kz",
+                            "MobileClassName": "口罩",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        },
+                        {
+                            "Id": "6f801420-307f-4ffe-a7e5-4c9003e60a4c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/6f801420-307f-4ffe-a7e5-4c9003e60a4c.jpg",
+                            "SeoCode": "sjcj",
+                            "MobileClassName": "水具厨具",
+                            "ParentID": "5f643f5d-050a-4575-9bd9-a5f8709e7054"
+                        }
+                    ]
+                },
+                {
+                    "Id": "5795370a-f4db-4f6d-91de-955b6f260c6b",
+                    "Img": "",
+                    "SeoCode": "yybj",
+                    "MobileClassName": "营养保健（全球购）",
+                    "ParentID": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+                    "Child": [
+                        {
+                            "Id": "dba6c3e5-9d6b-49e0-967f-60cac3794ab9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/dba6c3e5-9d6b-49e0-967f-60cac3794ab9.jpg",
+                            "SeoCode": "sw",
+                            "MobileClassName": "Swisse",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "03391e6a-28e5-410c-b79e-018f2785b150",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/03391e6a-28e5-410c-b79e-018f2785b150.jpg",
+                            "SeoCode": "gnc",
+                            "MobileClassName": "GNC/健安喜",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "b202397d-f7ea-4a09-a895-b571006368ba",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b202397d-f7ea-4a09-a895-b571006368ba.jpg",
+                            "SeoCode": "fan",
+                            "MobileClassName": "FANCL",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "0e3860f7-2345-4ee4-a0ff-ce8cffa2720f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0e3860f7-2345-4ee4-a0ff-ce8cffa2720f.jpg",
+                            "SeoCode": "ao",
+                            "MobileClassName": "BLACKMORES/澳佳宝",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "0ad05380-5b55-41af-a7b2-7f12c77b9e89",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0ad05380-5b55-41af-a7b2-7f12c77b9e89.jpg",
+                            "SeoCode": "sx",
+                            "MobileClassName": "德国Doppelherz/双心",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "6c06fb86-173e-42ef-a6be-9177ff725eb3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/6c06fb86-173e-42ef-a6be-9177ff725eb3.jpg",
+                            "SeoCode": "bl",
+                            "MobileClassName": "POLA/宝丽",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "861796a4-f203-4410-8917-0ef54713214c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/861796a4-f203-4410-8917-0ef54713214c.jpg",
+                            "SeoCode": "jy",
+                            "MobileClassName": "胶原蛋白",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "349fbdf1-9700-4371-a14f-e451056e33ac",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/349fbdf1-9700-4371-a14f-e451056e33ac.jpg",
+                            "SeoCode": "pt",
+                            "MobileClassName": "葡萄籽",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "2f5025ae-2dee-4027-80c5-22e9c14d15a5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2f5025ae-2dee-4027-80c5-22e9c14d15a5.jpg",
+                            "SeoCode": "mb",
+                            "MobileClassName": "美白",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "cdc79e41-7b25-46c2-8fe6-572f56230de3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/cdc79e41-7b25-46c2-8fe6-572f56230de3.jpg",
+                            "SeoCode": "pd",
+                            "MobileClassName": "排毒养颜",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "71ec66e4-5328-45fb-a6a1-cd988355822d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/71ec66e4-5328-45fb-a6a1-cd988355822d.png",
+                            "SeoCode": "my",
+                            "MobileClassName": "蔓越莓",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "3d542caa-a681-4497-8dcc-dd683b2bfd20",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3d542caa-a681-4497-8dcc-dd683b2bfd20.jpg",
+                            "SeoCode": "mt",
+                            "MobileClassName": "美体塑身",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "919ff879-a0db-48c1-aa21-df77b2a03407",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/919ff879-a0db-48c1-aa21-df77b2a03407.jpg",
+                            "SeoCode": "bx",
+                            "MobileClassName": "补血养气",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "db7a3984-24f2-4689-8381-514701bba653",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/db7a3984-24f2-4689-8381-514701bba653.jpg",
+                            "SeoCode": "zh",
+                            "MobileClassName": "综合营养",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "2960b41b-fdfe-4d4a-8009-7118de6eba30",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2960b41b-fdfe-4d4a-8009-7118de6eba30.jpg",
+                            "SeoCode": "js",
+                            "MobileClassName": "酵素青汁",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "79ed2c28-d001-4a27-a3db-908234f85435",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/79ed2c28-d001-4a27-a3db-908234f85435.png",
+                            "SeoCode": "hy",
+                            "MobileClassName": "护眼名目",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "4d6c7362-3ebe-49b8-bb63-cb70bad86039",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4d6c7362-3ebe-49b8-bb63-cb70bad86039.jpg",
+                            "SeoCode": "sg",
+                            "MobileClassName": "调节三高",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "be24e3ee-efeb-4791-8537-768869dd1521",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/be24e3ee-efeb-4791-8537-768869dd1521.jpg",
+                            "SeoCode": "gg",
+                            "MobileClassName": "骨骼关节",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "85d00906-ff91-43bc-a7fd-ff613482b5af",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/85d00906-ff91-43bc-a7fd-ff613482b5af.jpg",
+                            "SeoCode": "sm",
+                            "MobileClassName": "改善睡眠",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        },
+                        {
+                            "Id": "93243672-053a-4664-beb8-0565eb2cad04",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/93243672-053a-4664-beb8-0565eb2cad04.jpg",
+                            "SeoCode": "yye",
+                            "MobileClassName": "婴幼儿保健",
+                            "ParentID": "5795370a-f4db-4f6d-91de-955b6f260c6b"
+                        }
+                    ]
+                },
+                {
+                    "Id": "8aa00108-86bf-4ec9-ba07-04b03f471d93",
+                    "Img": "",
+                    "SeoCode": "my",
+                    "MobileClassName": "母婴（全球购）",
+                    "ParentID": "a8dfe63e-699f-467e-88ba-f872a6f78068",
+                    "Child": [
+                        {
+                            "Id": "6c608087-be12-46c4-964b-d08c5122e6e5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/6c608087-be12-46c4-964b-d08c5122e6e5.jpg",
+                            "SeoCode": "aa",
+                            "MobileClassName": "A2",
+                            "ParentID": "8aa00108-86bf-4ec9-ba07-04b03f471d93"
+                        },
+                        {
+                            "Id": "b82665fb-8f43-4a5e-8448-01bccfc5459f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b82665fb-8f43-4a5e-8448-01bccfc5459f.jpg",
+                            "SeoCode": "atm",
+                            "MobileClassName": "爱他美",
+                            "ParentID": "8aa00108-86bf-4ec9-ba07-04b03f471d93"
+                        },
+                        {
+                            "Id": "1ccc95e9-5207-477d-b14f-5bcda3ba9aa3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1ccc95e9-5207-477d-b14f-5bcda3ba9aa3.jpg",
+                            "SeoCode": "nyn",
+                            "MobileClassName": "诺优能",
+                            "ParentID": "8aa00108-86bf-4ec9-ba07-04b03f471d93"
+                        },
+                        {
+                            "Id": "c58145e9-7688-4a4f-bb57-f869009b11c2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c58145e9-7688-4a4f-bb57-f869009b11c2.jpg",
+                            "SeoCode": "xb",
+                            "MobileClassName": "喜宝",
+                            "ParentID": "8aa00108-86bf-4ec9-ba07-04b03f471d93"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "e856525d-016f-4eea-83a7-3fb1ca8985d9",
+            "Img": "",
+            "SeoCode": "fb",
+            "MobileClassName": "彩色美瞳",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "1185736a-68e4-452c-b8bd-7e2b18f8984a",
+                    "Img": "",
+                    "SeoCode": "fbsa",
+                    "MobileClassName": "热门搜索",
+                    "ParentID": "e856525d-016f-4eea-83a7-3fb1ca8985d9",
+                    "Child": [
+                        {
+                            "Id": "3e2101a3-f808-48fb-b759-ad38151dc34c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3e2101a3-f808-48fb-b759-ad38151dc34c.jpg",
+                            "SeoCode": "fbsata",
+                            "MobileClassName": "人气爆款",
+                            "ParentID": "1185736a-68e4-452c-b8bd-7e2b18f8984a"
+                        },
+                        {
+                            "Id": "bb1671c0-ac53-4690-8dba-7ef2ecef1e4b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/bb1671c0-ac53-4690-8dba-7ef2ecef1e4b.jpg",
+                            "SeoCode": "fbsatb",
+                            "MobileClassName": "新手必buy",
+                            "ParentID": "1185736a-68e4-452c-b8bd-7e2b18f8984a"
+                        }
+                    ]
+                },
+                {
+                    "Id": "08c22efc-8510-4d9d-b213-9eb1314816ea",
+                    "Img": "",
+                    "SeoCode": "fbsb",
+                    "MobileClassName": "佩戴周期",
+                    "ParentID": "e856525d-016f-4eea-83a7-3fb1ca8985d9",
+                    "Child": [
+                        {
+                            "Id": "a3003299-e268-41b9-88e1-56d22806e093",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a3003299-e268-41b9-88e1-56d22806e093.jpg",
+                            "SeoCode": "fbsbta",
+                            "MobileClassName": "日抛",
+                            "ParentID": "08c22efc-8510-4d9d-b213-9eb1314816ea"
+                        },
+                        {
+                            "Id": "2a29c5e8-7bf5-42b8-943a-b762ef194039",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2a29c5e8-7bf5-42b8-943a-b762ef194039.jpg",
+                            "SeoCode": "fbsbtb",
+                            "MobileClassName": "两周抛",
+                            "ParentID": "08c22efc-8510-4d9d-b213-9eb1314816ea"
+                        },
+                        {
+                            "Id": "d21650bb-4384-41e9-a0c8-ec76d030464e",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d21650bb-4384-41e9-a0c8-ec76d030464e.jpg",
+                            "SeoCode": "fbsbtd",
+                            "MobileClassName": "月抛",
+                            "ParentID": "08c22efc-8510-4d9d-b213-9eb1314816ea"
+                        },
+                        {
+                            "Id": "f2992077-1d3c-43f8-80df-1282bbf96642",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f2992077-1d3c-43f8-80df-1282bbf96642.jpg",
+                            "SeoCode": "fbsbte",
+                            "MobileClassName": "季抛",
+                            "ParentID": "08c22efc-8510-4d9d-b213-9eb1314816ea"
+                        },
+                        {
+                            "Id": "9c6b5b00-575a-4a7d-89bb-8ecfe078cd53",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9c6b5b00-575a-4a7d-89bb-8ecfe078cd53.jpg",
+                            "SeoCode": "fbsbtg",
+                            "MobileClassName": "半年抛",
+                            "ParentID": "08c22efc-8510-4d9d-b213-9eb1314816ea"
+                        },
+                        {
+                            "Id": "52ab6fe7-4713-4815-ba49-7eb160fed7a0",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/52ab6fe7-4713-4815-ba49-7eb160fed7a0.jpg",
+                            "SeoCode": "fbsbth",
+                            "MobileClassName": "年抛",
+                            "ParentID": "08c22efc-8510-4d9d-b213-9eb1314816ea"
+                        }
+                    ]
+                },
+                {
+                    "Id": "558e30b8-42fd-433c-8a41-6dd140c8d643",
+                    "Img": "",
+                    "SeoCode": "fbsd",
+                    "MobileClassName": "品牌",
+                    "ParentID": "e856525d-016f-4eea-83a7-3fb1ca8985d9",
+                    "Child": [
+                        {
+                            "Id": "78f663fa-cb3f-4707-928c-1ae25a02130d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/78f663fa-cb3f-4707-928c-1ae25a02130d.jpg",
+                            "SeoCode": "fbsdta",
+                            "MobileClassName": "强生",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "7905795f-f374-43e2-83ad-fa6397c87c57",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7905795f-f374-43e2-83ad-fa6397c87c57.jpg",
+                            "SeoCode": "fbsdtb",
+                            "MobileClassName": "博士伦",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "32687f39-ba71-40ee-82fa-e5cb66de9742",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/32687f39-ba71-40ee-82fa-e5cb66de9742.jpg",
+                            "SeoCode": "fbsdtd",
+                            "MobileClassName": "海昌",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "cdc84353-8510-4045-8ec2-9a1701b402d9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/cdc84353-8510-4045-8ec2-9a1701b402d9.jpg",
+                            "SeoCode": "fbsdte",
+                            "MobileClassName": "海俪恩",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "dcc56c05-d70f-4441-a72a-bb6d133e421f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/dcc56c05-d70f-4441-a72a-bb6d133e421f.jpg",
+                            "SeoCode": "fbsdtg",
+                            "MobileClassName": "实瞳",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "fce5d289-77dd-4ccc-b226-20aa03dd6c1a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fce5d289-77dd-4ccc-b226-20aa03dd6c1a.jpg",
+                            "SeoCode": "fbsdth",
+                            "MobileClassName": "卫康",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "977fe819-e9ab-4ab3-ad51-90cdea2ae6de",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/977fe819-e9ab-4ab3-ad51-90cdea2ae6de.jpg",
+                            "SeoCode": "fbsdti",
+                            "MobileClassName": "诺思",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "0cc2da46-3089-4438-9939-1bfacde9eb34",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0cc2da46-3089-4438-9939-1bfacde9eb34.jpg",
+                            "SeoCode": "fbsdtj",
+                            "MobileClassName": "科莱博",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "19f0cf53-7927-482c-b502-1389a8e2e06f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/19f0cf53-7927-482c-b502-1389a8e2e06f.jpg",
+                            "SeoCode": "fbsdtk",
+                            "MobileClassName": "NEO",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "79e7178c-aca2-421c-9763-9456d485c9cc",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/79e7178c-aca2-421c-9763-9456d485c9cc.jpg",
+                            "SeoCode": "fbsdtal",
+                            "MobileClassName": "爱芙丽",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "0d72a763-d930-4998-bf11-3194a0a2041d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0d72a763-d930-4998-bf11-3194a0a2041d.jpg",
+                            "SeoCode": "fbsdtaa",
+                            "MobileClassName": "高视能",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "4c03fecb-14b3-4dfd-a410-8aa26d403a60",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4c03fecb-14b3-4dfd-a410-8aa26d403a60.jpg",
+                            "SeoCode": "fbsdtab",
+                            "MobileClassName": "安娜苏",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "9b57d880-5ca0-4af1-959b-74d26b09c030",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9b57d880-5ca0-4af1-959b-74d26b09c030.jpg",
+                            "SeoCode": "fbsdtad",
+                            "MobileClassName": "菲士康",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "ff88fcbf-4b3e-4eee-9ba8-21516ec81536",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ff88fcbf-4b3e-4eee-9ba8-21516ec81536.jpg",
+                            "SeoCode": "fbsdtae",
+                            "MobileClassName": "艾爵",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "fc4ce520-8cef-4c82-9195-bfa1401f59e6",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fc4ce520-8cef-4c82-9195-bfa1401f59e6.jpg",
+                            "SeoCode": "fbsdtag",
+                            "MobileClassName": "心の拉花",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "ed7f7d6c-6cb1-479d-8d0c-b0166e0c8b18",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ed7f7d6c-6cb1-479d-8d0c-b0166e0c8b18.jpg",
+                            "SeoCode": "fbsdtah",
+                            "MobileClassName": "妆美堂",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "07bb18e8-91fc-4804-9f5a-7b863e6279d0",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/07bb18e8-91fc-4804-9f5a-7b863e6279d0.jpg",
+                            "SeoCode": "fbsdtai",
+                            "MobileClassName": "茵洛",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        },
+                        {
+                            "Id": "7f5a876a-37f4-47cd-9711-5df4e4df3ac3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7f5a876a-37f4-47cd-9711-5df4e4df3ac3.jpg",
+                            "SeoCode": "fbsdtaj",
+                            "MobileClassName": "更多品牌",
+                            "ParentID": "558e30b8-42fd-433c-8a41-6dd140c8d643"
+                        }
+                    ]
+                },
+                {
+                    "Id": "036dc9bd-69d0-4960-885a-6b5bc948f82a",
+                    "Img": "",
+                    "SeoCode": "fbse",
+                    "MobileClassName": "美瞳风格",
+                    "ParentID": "e856525d-016f-4eea-83a7-3fb1ca8985d9",
+                    "Child": [
+                        {
+                            "Id": "3d925724-8585-4f5a-b8ef-a9dcc3c7c796",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3d925724-8585-4f5a-b8ef-a9dcc3c7c796.jpg",
+                            "SeoCode": "fbseta",
+                            "MobileClassName": "自然清新",
+                            "ParentID": "036dc9bd-69d0-4960-885a-6b5bc948f82a"
+                        },
+                        {
+                            "Id": "a575b7e4-7fc2-42c3-829a-307931094745",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a575b7e4-7fc2-42c3-829a-307931094745.jpg",
+                            "SeoCode": "fbsetb",
+                            "MobileClassName": "灵动甜美",
+                            "ParentID": "036dc9bd-69d0-4960-885a-6b5bc948f82a"
+                        },
+                        {
+                            "Id": "b550eeea-2577-4796-954b-1b1f0c52b1ac",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b550eeea-2577-4796-954b-1b1f0c52b1ac.jpg",
+                            "SeoCode": "fbsetd",
+                            "MobileClassName": "耀目混血",
+                            "ParentID": "036dc9bd-69d0-4960-885a-6b5bc948f82a"
+                        }
+                    ]
+                },
+                {
+                    "Id": "4e81ac38-b391-4113-8481-c25ee307990c",
+                    "Img": "",
+                    "SeoCode": "fbsg",
+                    "MobileClassName": "增大效果",
+                    "ParentID": "e856525d-016f-4eea-83a7-3fb1ca8985d9",
+                    "Child": [
+                        {
+                            "Id": "d5b22333-d62d-40ef-aa2f-6f608427cf8b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d5b22333-d62d-40ef-aa2f-6f608427cf8b.jpg",
+                            "SeoCode": "fbsgta",
+                            "MobileClassName": "自然",
+                            "ParentID": "4e81ac38-b391-4113-8481-c25ee307990c"
+                        },
+                        {
+                            "Id": "359d2cbe-2f3b-4d22-88ca-802e42235119",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/359d2cbe-2f3b-4d22-88ca-802e42235119.jpg",
+                            "SeoCode": "fbsgtb",
+                            "MobileClassName": "普通增大",
+                            "ParentID": "4e81ac38-b391-4113-8481-c25ee307990c"
+                        },
+                        {
+                            "Id": "351ec982-c939-4bc3-a121-805d844a69e5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/351ec982-c939-4bc3-a121-805d844a69e5.jpg",
+                            "SeoCode": "fbsgtd",
+                            "MobileClassName": "显著增大",
+                            "ParentID": "4e81ac38-b391-4113-8481-c25ee307990c"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "946ad6a5-8cf7-4a49-ad30-50fdebdf2df9",
+            "Img": "",
+            "SeoCode": "fa",
+            "MobileClassName": "隐形眼镜",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae",
+                    "Img": "",
+                    "SeoCode": "fasa",
+                    "MobileClassName": "热销品牌",
+                    "ParentID": "946ad6a5-8cf7-4a49-ad30-50fdebdf2df9",
+                    "Child": [
+                        {
+                            "Id": "dbf65d38-9d92-47d8-9ac2-e64a60b7613c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/dbf65d38-9d92-47d8-9ac2-e64a60b7613c.jpg",
+                            "SeoCode": "fasata",
+                            "MobileClassName": "博士伦",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "848e9002-4f91-467a-afb9-9bb15f1f173c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/848e9002-4f91-467a-afb9-9bb15f1f173c.jpg",
+                            "SeoCode": "fasatb",
+                            "MobileClassName": "海昌",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "13e38dac-5373-425e-853f-3f461a40e203",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/13e38dac-5373-425e-853f-3f461a40e203.jpg",
+                            "SeoCode": "fasatd",
+                            "MobileClassName": "强生",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "7b697f0d-4a66-4b11-9754-5164f5def59b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7b697f0d-4a66-4b11-9754-5164f5def59b.jpg",
+                            "SeoCode": "fasate",
+                            "MobileClassName": "卫康",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "8138df67-1751-4a00-b88f-cff245bd712a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/8138df67-1751-4a00-b88f-cff245bd712a.jpg",
+                            "SeoCode": "fasatg",
+                            "MobileClassName": "爱尔康",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "111a202e-0f08-4155-9aba-896f28bc24cf",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/111a202e-0f08-4155-9aba-896f28bc24cf.jpg",
+                            "SeoCode": "fasath",
+                            "MobileClassName": "库博",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "2eda0515-071f-4187-a50b-9f54d76cd08c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2eda0515-071f-4187-a50b-9f54d76cd08c.jpg",
+                            "SeoCode": "fasati",
+                            "MobileClassName": "米如",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "5ce54083-2744-496c-a96a-7ee1e9ba5c96",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5ce54083-2744-496c-a96a-7ee1e9ba5c96.jpg",
+                            "SeoCode": "fasatj",
+                            "MobileClassName": "实瞳",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "35a40324-0f8a-4be3-8bc3-78e39601c784",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/35a40324-0f8a-4be3-8bc3-78e39601c784.jpg",
+                            "SeoCode": "fasatk",
+                            "MobileClassName": "科莱博",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "9cdd83fc-b5d7-4bd9-b994-8aa5be709ade",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9cdd83fc-b5d7-4bd9-b994-8aa5be709ade.jpg",
+                            "SeoCode": "fasatal",
+                            "MobileClassName": "傲视",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "5b256828-6b63-4b59-aa59-cea8bfc23ddd",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5b256828-6b63-4b59-aa59-cea8bfc23ddd.jpg",
+                            "SeoCode": "fasataa",
+                            "MobileClassName": "海俪恩",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "24425f1e-14fb-4736-ac91-61c536994792",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/24425f1e-14fb-4736-ac91-61c536994792.jpg",
+                            "SeoCode": "fasatab",
+                            "MobileClassName": "茵洛",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        },
+                        {
+                            "Id": "2b19aba9-cf7f-4c5f-9397-c640f05f6c4b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2b19aba9-cf7f-4c5f-9397-c640f05f6c4b.jpg",
+                            "SeoCode": "fasatad",
+                            "MobileClassName": "更多品牌",
+                            "ParentID": "d1bd08da-5dc0-4dbb-8458-260a36ae26ae"
+                        }
+                    ]
+                },
+                {
+                    "Id": "ddfc20b2-7c18-4163-8004-37488404fba0",
+                    "Img": "",
+                    "SeoCode": "fasb",
+                    "MobileClassName": "佩戴周期",
+                    "ParentID": "946ad6a5-8cf7-4a49-ad30-50fdebdf2df9",
+                    "Child": [
+                        {
+                            "Id": "33784f95-7a4f-494c-8d3c-cddbcd085d09",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/33784f95-7a4f-494c-8d3c-cddbcd085d09.jpg",
+                            "SeoCode": "fasbta",
+                            "MobileClassName": "日抛",
+                            "ParentID": "ddfc20b2-7c18-4163-8004-37488404fba0"
+                        },
+                        {
+                            "Id": "e6b94803-e5bc-40d3-9226-49565affb511",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e6b94803-e5bc-40d3-9226-49565affb511.jpg",
+                            "SeoCode": "fasbtb",
+                            "MobileClassName": "两周抛",
+                            "ParentID": "ddfc20b2-7c18-4163-8004-37488404fba0"
+                        },
+                        {
+                            "Id": "cf694d5b-fe4e-4510-a010-b136a997f373",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/cf694d5b-fe4e-4510-a010-b136a997f373.jpg",
+                            "SeoCode": "fasbtd",
+                            "MobileClassName": "月抛",
+                            "ParentID": "ddfc20b2-7c18-4163-8004-37488404fba0"
+                        },
+                        {
+                            "Id": "e2ce09a0-a6d1-47c9-9bfa-dbd8afd75fef",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e2ce09a0-a6d1-47c9-9bfa-dbd8afd75fef.jpg",
+                            "SeoCode": "fasbte",
+                            "MobileClassName": "季抛",
+                            "ParentID": "ddfc20b2-7c18-4163-8004-37488404fba0"
+                        },
+                        {
+                            "Id": "e1608ecb-5958-4259-8135-26d15c547391",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e1608ecb-5958-4259-8135-26d15c547391.jpg",
+                            "SeoCode": "fasbtg",
+                            "MobileClassName": "半年抛",
+                            "ParentID": "ddfc20b2-7c18-4163-8004-37488404fba0"
+                        },
+                        {
+                            "Id": "da517a63-19e6-4faa-ad9e-2264bab4ef86",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/da517a63-19e6-4faa-ad9e-2264bab4ef86.jpg",
+                            "SeoCode": "fasbth",
+                            "MobileClassName": "年抛",
+                            "ParentID": "ddfc20b2-7c18-4163-8004-37488404fba0"
+                        }
+                    ]
+                },
+                {
+                    "Id": "08dfa567-cd76-4d5a-82ef-d5e57252c786",
+                    "Img": "",
+                    "SeoCode": "fasd",
+                    "MobileClassName": "佩戴场合",
+                    "ParentID": "946ad6a5-8cf7-4a49-ad30-50fdebdf2df9",
+                    "Child": [
+                        {
+                            "Id": "35d6f472-13c8-4413-b7c1-d0c98dca9d43",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/35d6f472-13c8-4413-b7c1-d0c98dca9d43.jpg",
+                            "SeoCode": "fasdta",
+                            "MobileClassName": "青春校园",
+                            "ParentID": "08dfa567-cd76-4d5a-82ef-d5e57252c786"
+                        },
+                        {
+                            "Id": "1e3cb9f6-2c11-4388-adc8-7720b9b3d889",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1e3cb9f6-2c11-4388-adc8-7720b9b3d889.jpg",
+                            "SeoCode": "fasdtb",
+                            "MobileClassName": "商务职场",
+                            "ParentID": "08dfa567-cd76-4d5a-82ef-d5e57252c786"
+                        },
+                        {
+                            "Id": "216ccf50-5b2d-4d33-8f43-484d7554512a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/216ccf50-5b2d-4d33-8f43-484d7554512a.jpg",
+                            "SeoCode": "fasdtd",
+                            "MobileClassName": "外出游玩",
+                            "ParentID": "08dfa567-cd76-4d5a-82ef-d5e57252c786"
+                        }
+                    ]
+                },
+                {
+                    "Id": "2eb9a82d-a19f-4f34-bb5c-26a3f8520043",
+                    "Img": "",
+                    "SeoCode": "fase",
+                    "MobileClassName": "含水量",
+                    "ParentID": "946ad6a5-8cf7-4a49-ad30-50fdebdf2df9",
+                    "Child": [
+                        {
+                            "Id": "51f65633-d4a8-4642-9ed3-c00b43e1be7a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/51f65633-d4a8-4642-9ed3-c00b43e1be7a.jpg",
+                            "SeoCode": "faseta",
+                            "MobileClassName": "43-69%",
+                            "ParentID": "2eb9a82d-a19f-4f34-bb5c-26a3f8520043"
+                        },
+                        {
+                            "Id": "4ab1c45d-b170-4b0c-8f4a-f2d97d93dedf",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4ab1c45d-b170-4b0c-8f4a-f2d97d93dedf.jpg",
+                            "SeoCode": "fasetb",
+                            "MobileClassName": "38-42%",
+                            "ParentID": "2eb9a82d-a19f-4f34-bb5c-26a3f8520043"
+                        },
+                        {
+                            "Id": "4e54df86-57c0-4af6-be86-418439ff4277",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4e54df86-57c0-4af6-be86-418439ff4277.jpg",
+                            "SeoCode": "fasetd",
+                            "MobileClassName": "≤37%",
+                            "ParentID": "2eb9a82d-a19f-4f34-bb5c-26a3f8520043"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "d5081e4d-bf51-4882-9887-5686f2bfb82f",
+            "Img": "",
+            "SeoCode": "fd",
+            "MobileClassName": "护理用品",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac",
+                    "Img": "",
+                    "SeoCode": "fdsa",
+                    "MobileClassName": "热销品牌",
+                    "ParentID": "d5081e4d-bf51-4882-9887-5686f2bfb82f",
+                    "Child": [
+                        {
+                            "Id": "fd54ade6-c5a1-4a8b-9e33-42bef7f3f6fa",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fd54ade6-c5a1-4a8b-9e33-42bef7f3f6fa.jpg",
+                            "SeoCode": "fdsata",
+                            "MobileClassName": "博士伦",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "ad99c269-4a5b-4b60-9c1a-bdf262417ab9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ad99c269-4a5b-4b60-9c1a-bdf262417ab9.jpg",
+                            "SeoCode": "fdsatb",
+                            "MobileClassName": "海昌",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "3755f755-08be-4e3f-9fec-2c891b799ac9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3755f755-08be-4e3f-9fec-2c891b799ac9.jpg",
+                            "SeoCode": "fdsatd",
+                            "MobileClassName": "科莱博",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "bf9acf3b-06e5-4981-8391-bd42687e0615",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/bf9acf3b-06e5-4981-8391-bd42687e0615.jpg",
+                            "SeoCode": "fdsate",
+                            "MobileClassName": "爱尔康",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "9383ff1f-c2f4-4593-9b79-e1095540fc4e",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9383ff1f-c2f4-4593-9b79-e1095540fc4e.jpg",
+                            "SeoCode": "fdsatg",
+                            "MobileClassName": "卫康",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "4f839fbd-1b86-43b4-b176-57a6d8139bcb",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4f839fbd-1b86-43b4-b176-57a6d8139bcb.jpg",
+                            "SeoCode": "fdsath",
+                            "MobileClassName": "诺思纯澈",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "8b380a1b-f91f-4e7e-9578-e8db149351bd",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/8b380a1b-f91f-4e7e-9578-e8db149351bd.jpg",
+                            "SeoCode": "fdsati",
+                            "MobileClassName": "雅培",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "0c7eeeca-b538-479d-8b8b-da5101d20e8a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0c7eeeca-b538-479d-8b8b-da5101d20e8a.jpg",
+                            "SeoCode": "fdsatj",
+                            "MobileClassName": "珍视明",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "565ea64c-6e88-4b45-adf3-68e3c204f6bb",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/565ea64c-6e88-4b45-adf3-68e3c204f6bb.jpg",
+                            "SeoCode": "fdsatk",
+                            "MobileClassName": "澜柏",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "4d9b32cd-76cc-497f-aab5-e10dec6fb249",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4d9b32cd-76cc-497f-aab5-e10dec6fb249.jpg",
+                            "SeoCode": "fdsatal",
+                            "MobileClassName": "优能",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "862cc85e-1203-4bc9-a2ba-dfd49ff34f65",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/862cc85e-1203-4bc9-a2ba-dfd49ff34f65.jpg",
+                            "SeoCode": "fdsataa",
+                            "MobileClassName": "珂俪维",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "97d2255e-09c8-43b6-b577-f9750f8b4d8d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/97d2255e-09c8-43b6-b577-f9750f8b4d8d.jpg",
+                            "SeoCode": "fdsatab",
+                            "MobileClassName": "海俪恩",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "50ab83d7-e190-4f9b-af47-9c673ca4ed0b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/50ab83d7-e190-4f9b-af47-9c673ca4ed0b.jpg",
+                            "SeoCode": "fdsatad",
+                            "MobileClassName": "优卓",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        },
+                        {
+                            "Id": "e63a8272-4af6-4003-aaf6-9c48ff9f4365",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e63a8272-4af6-4003-aaf6-9c48ff9f4365.jpg",
+                            "SeoCode": "fdsatae",
+                            "MobileClassName": "更多品牌",
+                            "ParentID": "50d9fe9d-e5b2-49e9-b43e-2e1aff9ac5ac"
+                        }
+                    ]
+                },
+                {
+                    "Id": "1251564c-d88e-43e3-972a-81105416d5b5",
+                    "Img": "",
+                    "SeoCode": "fdsb",
+                    "MobileClassName": "功能分类",
+                    "ParentID": "d5081e4d-bf51-4882-9887-5686f2bfb82f",
+                    "Child": [
+                        {
+                            "Id": "09a5b306-a785-477b-a517-7d9e30390ee0",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/09a5b306-a785-477b-a517-7d9e30390ee0.jpg",
+                            "SeoCode": "fdsbta",
+                            "MobileClassName": "护理液",
+                            "ParentID": "1251564c-d88e-43e3-972a-81105416d5b5"
+                        },
+                        {
+                            "Id": "951b5d63-2c45-4f2f-a007-3ff1af016355",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/951b5d63-2c45-4f2f-a007-3ff1af016355.jpg",
+                            "SeoCode": "fdsbtb",
+                            "MobileClassName": "润滑液",
+                            "ParentID": "1251564c-d88e-43e3-972a-81105416d5b5"
+                        },
+                        {
+                            "Id": "05b533db-6650-42e0-88d5-306ddda48b8a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/05b533db-6650-42e0-88d5-306ddda48b8a.jpg",
+                            "SeoCode": "fdsbtd",
+                            "MobileClassName": "清洗液",
+                            "ParentID": "1251564c-d88e-43e3-972a-81105416d5b5"
+                        },
+                        {
+                            "Id": "90a45fe2-f53c-4272-9a89-1b89e61ab2e3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/90a45fe2-f53c-4272-9a89-1b89e61ab2e3.jpg",
+                            "SeoCode": "fdsbte",
+                            "MobileClassName": "眼镜盒",
+                            "ParentID": "1251564c-d88e-43e3-972a-81105416d5b5"
+                        },
+                        {
+                            "Id": "e0faee6d-4bc4-4544-8896-c5496bb5d84f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e0faee6d-4bc4-4544-8896-c5496bb5d84f.jpg",
+                            "SeoCode": "qita",
+                            "MobileClassName": "其它",
+                            "ParentID": "1251564c-d88e-43e3-972a-81105416d5b5"
+                        }
+                    ]
+                },
+                {
+                    "Id": "789c0db2-af8c-4f61-a821-e5fe3e760d03",
+                    "Img": "",
+                    "SeoCode": "fdsd",
+                    "MobileClassName": "规格分类",
+                    "ParentID": "d5081e4d-bf51-4882-9887-5686f2bfb82f",
+                    "Child": [
+                        {
+                            "Id": "cf749f63-cb6a-48f6-9a67-cbe9875aea09",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/cf749f63-cb6a-48f6-9a67-cbe9875aea09.jpg",
+                            "SeoCode": "fdsdta",
+                            "MobileClassName": "大瓶装",
+                            "ParentID": "789c0db2-af8c-4f61-a821-e5fe3e760d03"
+                        },
+                        {
+                            "Id": "3975f9ec-809d-49a1-b504-86e13c973daa",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3975f9ec-809d-49a1-b504-86e13c973daa.jpg",
+                            "SeoCode": "fdsdtb",
+                            "MobileClassName": "小瓶装",
+                            "ParentID": "789c0db2-af8c-4f61-a821-e5fe3e760d03"
+                        },
+                        {
+                            "Id": "df05612c-1109-4ebf-9209-baec1a48b0c0",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/df05612c-1109-4ebf-9209-baec1a48b0c0.jpg",
+                            "SeoCode": "fdsdtd",
+                            "MobileClassName": "组合装",
+                            "ParentID": "789c0db2-af8c-4f61-a821-e5fe3e760d03"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "36775da9-2859-4e97-9715-f3b9ea057b95",
+            "Img": "",
+            "SeoCode": "fe",
+            "MobileClassName": "美妆个护",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "97019f4d-4504-486b-88ee-ff4cf3787b31",
+                    "Img": "",
+                    "SeoCode": "fesa",
+                    "MobileClassName": "美容护肤",
+                    "ParentID": "36775da9-2859-4e97-9715-f3b9ea057b95",
+                    "Child": [
+                        {
+                            "Id": "8353dcfc-015f-4442-98dc-cff89543e271",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/8353dcfc-015f-4442-98dc-cff89543e271.png",
+                            "SeoCode": "fesata",
+                            "MobileClassName": "面部清洁",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "45540068-41e0-4320-8540-ac08b1fec549",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/45540068-41e0-4320-8540-ac08b1fec549.png",
+                            "SeoCode": "fesatb",
+                            "MobileClassName": "化妆水",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "5a6fa29b-d9c5-4f6c-a128-2ea28bee54db",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5a6fa29b-d9c5-4f6c-a128-2ea28bee54db.jpg",
+                            "SeoCode": "fesatd",
+                            "MobileClassName": "面膜",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "0d8e1878-cec1-41c0-8934-21f0ed731f66",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0d8e1878-cec1-41c0-8934-21f0ed731f66.jpg",
+                            "SeoCode": "fesate",
+                            "MobileClassName": "面霜",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "584733dc-19d3-4512-928f-1d0fce733f87",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/584733dc-19d3-4512-928f-1d0fce733f87.jpg",
+                            "SeoCode": "fesatg",
+                            "MobileClassName": "乳液",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "541851af-a3dc-4cb9-965b-8bc8b9354f8d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/541851af-a3dc-4cb9-965b-8bc8b9354f8d.jpg",
+                            "SeoCode": "fesath",
+                            "MobileClassName": "喷雾",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "de252540-fd28-4f33-9042-51b474d93af9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/de252540-fd28-4f33-9042-51b474d93af9.jpg",
+                            "SeoCode": "fesati",
+                            "MobileClassName": "面部精华",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "af8a0a8e-9359-4784-9252-f111c47e8096",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/af8a0a8e-9359-4784-9252-f111c47e8096.png",
+                            "SeoCode": "fesatj",
+                            "MobileClassName": "唇部护理",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "a14f7ef2-ea69-4a9b-9ef4-7f2c828c434e",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a14f7ef2-ea69-4a9b-9ef4-7f2c828c434e.jpg",
+                            "SeoCode": "fesatk",
+                            "MobileClassName": "防晒修复",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "46381e00-4e13-4fca-80b9-5b6edfa2f7e3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/46381e00-4e13-4fca-80b9-5b6edfa2f7e3.jpg",
+                            "SeoCode": "fesatal",
+                            "MobileClassName": "眼部护理",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        },
+                        {
+                            "Id": "7ccaa546-2983-4e5b-9bda-a6588617b439",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7ccaa546-2983-4e5b-9bda-a6588617b439.jpg",
+                            "SeoCode": "fesataa",
+                            "MobileClassName": "护肤工具",
+                            "ParentID": "97019f4d-4504-486b-88ee-ff4cf3787b31"
+                        }
+                    ]
+                },
+                {
+                    "Id": "b9df6c79-1b77-4c9d-916c-7f828c43cf05",
+                    "Img": "",
+                    "SeoCode": "fesb",
+                    "MobileClassName": "彩妆香氛",
+                    "ParentID": "36775da9-2859-4e97-9715-f3b9ea057b95",
+                    "Child": [
+                        {
+                            "Id": "96a62745-dc1f-403c-a2a0-462bc676e942",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/96a62745-dc1f-403c-a2a0-462bc676e942.png",
+                            "SeoCode": "fesbta",
+                            "MobileClassName": "卸妆",
+                            "ParentID": "b9df6c79-1b77-4c9d-916c-7f828c43cf05"
+                        },
+                        {
+                            "Id": "110154fc-cbc7-422a-a240-039d0477b3d5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/110154fc-cbc7-422a-a240-039d0477b3d5.png",
+                            "SeoCode": "fesbtb",
+                            "MobileClassName": "唇妆",
+                            "ParentID": "b9df6c79-1b77-4c9d-916c-7f828c43cf05"
+                        },
+                        {
+                            "Id": "73199fac-8034-4ead-9b6f-3b7c2c8e7ba4",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/73199fac-8034-4ead-9b6f-3b7c2c8e7ba4.jpg",
+                            "SeoCode": "fesbtd",
+                            "MobileClassName": "眼妆",
+                            "ParentID": "b9df6c79-1b77-4c9d-916c-7f828c43cf05"
+                        },
+                        {
+                            "Id": "d619d56a-9610-46ce-93bb-e4bc40598c1b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d619d56a-9610-46ce-93bb-e4bc40598c1b.jpg",
+                            "SeoCode": "fesbte",
+                            "MobileClassName": "面部彩妆",
+                            "ParentID": "b9df6c79-1b77-4c9d-916c-7f828c43cf05"
+                        }
+                    ]
+                },
+                {
+                    "Id": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9",
+                    "Img": "",
+                    "SeoCode": "fesd",
+                    "MobileClassName": "个人护理",
+                    "ParentID": "36775da9-2859-4e97-9715-f3b9ea057b95",
+                    "Child": [
+                        {
+                            "Id": "531afc69-f655-48f3-b0f0-1408fa180735",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/531afc69-f655-48f3-b0f0-1408fa180735.jpg",
+                            "SeoCode": "fesdta",
+                            "MobileClassName": "手部护理",
+                            "ParentID": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9"
+                        },
+                        {
+                            "Id": "845ddad5-d1d0-4c46-a09e-8109ca0f7c55",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/845ddad5-d1d0-4c46-a09e-8109ca0f7c55.jpg",
+                            "SeoCode": "fesdtd",
+                            "MobileClassName": "洗发",
+                            "ParentID": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9"
+                        },
+                        {
+                            "Id": "8dc99220-3369-44fc-a69a-2b123ecf3a4b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/8dc99220-3369-44fc-a69a-2b123ecf3a4b.jpg",
+                            "SeoCode": "fesdte",
+                            "MobileClassName": "护发",
+                            "ParentID": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9"
+                        },
+                        {
+                            "Id": "c7d536e2-47d9-4b9d-9485-5a116cf9cdb8",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c7d536e2-47d9-4b9d-9485-5a116cf9cdb8.jpg",
+                            "SeoCode": "fesdtg",
+                            "MobileClassName": "沐浴清洁",
+                            "ParentID": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9"
+                        },
+                        {
+                            "Id": "af767782-7c27-4c3f-9920-ace503d4ceab",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/af767782-7c27-4c3f-9920-ace503d4ceab.jpg",
+                            "SeoCode": "kouqianghuli",
+                            "MobileClassName": "口腔护理",
+                            "ParentID": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9"
+                        },
+                        {
+                            "Id": "ddcc4aa0-27c7-48f3-a43d-fe3ca693dbd3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ddcc4aa0-27c7-48f3-a43d-fe3ca693dbd3.jpg",
+                            "SeoCode": "fesdtb",
+                            "MobileClassName": "脱毛膏",
+                            "ParentID": "a0c6c268-56ab-46b3-b530-9ea98f2fddc9"
+                        }
+                    ]
+                },
+                {
+                    "Id": "b0160581-7cbd-48bb-8fd9-439f988a00db",
+                    "Img": "",
+                    "SeoCode": "fese",
+                    "MobileClassName": "热销品牌",
+                    "ParentID": "36775da9-2859-4e97-9715-f3b9ea057b95",
+                    "Child": [
+                        {
+                            "Id": "3864fcda-32e0-42b5-8347-71ca85477b92",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3864fcda-32e0-42b5-8347-71ca85477b92.jpg",
+                            "SeoCode": "feseta",
+                            "MobileClassName": "兰芝",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "7d364152-12fe-4101-a8ec-e262f86459dd",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7d364152-12fe-4101-a8ec-e262f86459dd.jpg",
+                            "SeoCode": "fesetb",
+                            "MobileClassName": "DHC",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "c0391a7d-9f2c-4267-92c1-f9048846e732",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c0391a7d-9f2c-4267-92c1-f9048846e732.jpg",
+                            "SeoCode": "fesetd",
+                            "MobileClassName": "kiss me",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "aaa9e52a-6bd1-4d79-9d41-71174f5af1ac",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/aaa9e52a-6bd1-4d79-9d41-71174f5af1ac.jpg",
+                            "SeoCode": "fesete",
+                            "MobileClassName": "谜尚",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "dbae03b6-fee0-4802-9ce9-c1f8b14e1e64",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/dbae03b6-fee0-4802-9ce9-c1f8b14e1e64.png",
+                            "SeoCode": "fesetg",
+                            "MobileClassName": "雅漾",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "329446ec-d23c-413b-a3be-690d4fdd52a2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/329446ec-d23c-413b-a3be-690d4fdd52a2.jpg",
+                            "SeoCode": "feseth",
+                            "MobileClassName": "papa recipe",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "5eb271e2-91d1-4752-89b5-7fa8c4748a9c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5eb271e2-91d1-4752-89b5-7fa8c4748a9c.jpg",
+                            "SeoCode": "feseti",
+                            "MobileClassName": "菲诗小铺",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "b2b2c265-0150-410e-90ec-0da882da29bc",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b2b2c265-0150-410e-90ec-0da882da29bc.jpg",
+                            "SeoCode": "fesetj",
+                            "MobileClassName": "丽得姿",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "2c9b4075-b78c-44f8-ba09-59c21154858a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2c9b4075-b78c-44f8-ba09-59c21154858a.jpg",
+                            "SeoCode": "fesetk",
+                            "MobileClassName": "资生堂",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "387dfb6b-fce2-4fb0-b278-1626175cbbc4",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/387dfb6b-fce2-4fb0-b278-1626175cbbc4.png",
+                            "SeoCode": "fesetal",
+                            "MobileClassName": "Mediheal",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        },
+                        {
+                            "Id": "a6c626de-defe-4444-ba18-ab7067aac6bb",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a6c626de-defe-4444-ba18-ab7067aac6bb.png",
+                            "SeoCode": "fesetab",
+                            "MobileClassName": "其他",
+                            "ParentID": "b0160581-7cbd-48bb-8fd9-439f988a00db"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "bc11369c-7c60-48ac-a213-1e80ae076c58",
+            "Img": "",
+            "SeoCode": "fg",
+            "MobileClassName": "内养滋补",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5",
+                    "Img": "",
+                    "SeoCode": "fgsa",
+                    "MobileClassName": "保健功能",
+                    "ParentID": "bc11369c-7c60-48ac-a213-1e80ae076c58",
+                    "Child": [
+                        {
+                            "Id": "1a62c556-168a-4ac8-8b04-6bcf9378e5ac",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1a62c556-168a-4ac8-8b04-6bcf9378e5ac.jpg",
+                            "SeoCode": "fgsata",
+                            "MobileClassName": "矿物维生素",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "b5844390-87e2-443e-89e0-1ebddbe45424",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b5844390-87e2-443e-89e0-1ebddbe45424.jpg",
+                            "SeoCode": "fgsatb",
+                            "MobileClassName": "增加免疫力",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "4a4ba7aa-76bf-4c88-bba4-e034349aede2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4a4ba7aa-76bf-4c88-bba4-e034349aede2.jpg",
+                            "SeoCode": "fgsatd",
+                            "MobileClassName": "补钙",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "bd8272a2-5b9d-4fcc-9864-01262db09869",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/bd8272a2-5b9d-4fcc-9864-01262db09869.jpg",
+                            "SeoCode": "fgsate",
+                            "MobileClassName": "体重管理",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "ae283514-4a9a-4a8f-a896-a9898c31dee1",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ae283514-4a9a-4a8f-a896-a9898c31dee1.jpg",
+                            "SeoCode": "fgsatg",
+                            "MobileClassName": "美容祛斑",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "f53d80ed-5f91-43ff-a177-7b0ee55665c8",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f53d80ed-5f91-43ff-a177-7b0ee55665c8.jpg",
+                            "SeoCode": "fgsath",
+                            "MobileClassName": "延缓衰老",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "5400c8cd-968c-4bc1-8814-721e55680496",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5400c8cd-968c-4bc1-8814-721e55680496.jpg",
+                            "SeoCode": "fgsati",
+                            "MobileClassName": "补充蛋白质",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "5b99c533-f70c-4b2f-aa60-0e231e732118",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5b99c533-f70c-4b2f-aa60-0e231e732118.jpg",
+                            "SeoCode": "fgsatj",
+                            "MobileClassName": "辅助降血脂",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        },
+                        {
+                            "Id": "424697e1-bd33-459d-afd9-6fe961b94224",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/424697e1-bd33-459d-afd9-6fe961b94224.jpg",
+                            "SeoCode": "fgsatk",
+                            "MobileClassName": "眼部保养",
+                            "ParentID": "b842ff73-89d8-4710-9d0e-e95d09bcbdc5"
+                        }
+                    ]
+                },
+                {
+                    "Id": "163a306b-90a0-448d-b1e1-8354c077a952",
+                    "Img": "",
+                    "SeoCode": "fgsb",
+                    "MobileClassName": "人群分类",
+                    "ParentID": "bc11369c-7c60-48ac-a213-1e80ae076c58",
+                    "Child": [
+                        {
+                            "Id": "244e854e-056e-45b9-bf62-570e4de87c8c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/244e854e-056e-45b9-bf62-570e4de87c8c.jpg",
+                            "SeoCode": "fgsbta",
+                            "MobileClassName": "女士专区",
+                            "ParentID": "163a306b-90a0-448d-b1e1-8354c077a952"
+                        },
+                        {
+                            "Id": "1727a4c6-f602-4559-bd91-e3f3be72bb78",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1727a4c6-f602-4559-bd91-e3f3be72bb78.jpg",
+                            "SeoCode": "fgsbtb",
+                            "MobileClassName": "男士专区",
+                            "ParentID": "163a306b-90a0-448d-b1e1-8354c077a952"
+                        },
+                        {
+                            "Id": "7c541b28-fd42-4bbf-86a0-e696543d89dc",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7c541b28-fd42-4bbf-86a0-e696543d89dc.jpg",
+                            "SeoCode": "fgsbtd",
+                            "MobileClassName": "中老年专区",
+                            "ParentID": "163a306b-90a0-448d-b1e1-8354c077a952"
+                        }
+                    ]
+                },
+                {
+                    "Id": "375128f5-3c76-4edd-99dd-9a6e6c9d3b7a",
+                    "Img": "",
+                    "SeoCode": "fgsd",
+                    "MobileClassName": "养生类",
+                    "ParentID": "bc11369c-7c60-48ac-a213-1e80ae076c58",
+                    "Child": [
+                        {
+                            "Id": "e3a58434-51e8-4016-8106-7e62ca2a4235",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e3a58434-51e8-4016-8106-7e62ca2a4235.jpg",
+                            "SeoCode": "fgsdta",
+                            "MobileClassName": "养生茶",
+                            "ParentID": "375128f5-3c76-4edd-99dd-9a6e6c9d3b7a"
+                        },
+                        {
+                            "Id": "f86a5b0b-c979-404e-a87f-bd2f3cebd601",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f86a5b0b-c979-404e-a87f-bd2f3cebd601.jpg",
+                            "SeoCode": "fgsdtb",
+                            "MobileClassName": "蜂蜜",
+                            "ParentID": "375128f5-3c76-4edd-99dd-9a6e6c9d3b7a"
+                        },
+                        {
+                            "Id": "a46a079c-9a80-4668-83b9-dccf30c236a3",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a46a079c-9a80-4668-83b9-dccf30c236a3.jpg",
+                            "SeoCode": "fgsdtd",
+                            "MobileClassName": "阿胶",
+                            "ParentID": "375128f5-3c76-4edd-99dd-9a6e6c9d3b7a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "aa22d1bb-5e71-42df-897d-ce418d920b45",
+            "Img": "",
+            "SeoCode": "fh",
+            "MobileClassName": "医疗器械",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7",
+                    "Img": "",
+                    "SeoCode": "fhsa",
+                    "MobileClassName": "家用检测",
+                    "ParentID": "aa22d1bb-5e71-42df-897d-ce418d920b45",
+                    "Child": [
+                        {
+                            "Id": "0e78dad6-2b2f-47f1-a9c1-40cef4a36905",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0e78dad6-2b2f-47f1-a9c1-40cef4a36905.jpg",
+                            "SeoCode": "fhsata",
+                            "MobileClassName": "血压计",
+                            "ParentID": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7"
+                        },
+                        {
+                            "Id": "6769be7e-ba36-4ac3-a403-8f299cc024de",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/6769be7e-ba36-4ac3-a403-8f299cc024de.jpg",
+                            "SeoCode": "fhsatb",
+                            "MobileClassName": "血糖仪/试纸",
+                            "ParentID": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7"
+                        },
+                        {
+                            "Id": "dc651d05-ad6c-4d5d-a0f4-201c0cc9f3cf",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/dc651d05-ad6c-4d5d-a0f4-201c0cc9f3cf.jpg",
+                            "SeoCode": "fhsatd",
+                            "MobileClassName": "体温计",
+                            "ParentID": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7"
+                        },
+                        {
+                            "Id": "127b10e2-5f5c-45eb-832a-6cecd1a6a4c7",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/127b10e2-5f5c-45eb-832a-6cecd1a6a4c7.jpg",
+                            "SeoCode": "fhsatg",
+                            "MobileClassName": "胎心仪",
+                            "ParentID": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7"
+                        },
+                        {
+                            "Id": "d1261b6d-d526-45bc-b3a2-72c720bfc883",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d1261b6d-d526-45bc-b3a2-72c720bfc883.jpg",
+                            "SeoCode": "fhsath",
+                            "MobileClassName": "体重体脂",
+                            "ParentID": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7"
+                        },
+                        {
+                            "Id": "92e36de0-d517-44a7-9e21-f04dae777165",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/92e36de0-d517-44a7-9e21-f04dae777165.jpg",
+                            "SeoCode": "ydsh",
+                            "MobileClassName": "运动手环",
+                            "ParentID": "dd8b8e25-9bb2-4c97-95e1-b85d4e4a1ce7"
+                        }
+                    ]
+                },
+                {
+                    "Id": "dc8b3172-6627-4463-9bb8-1e233c0c4ba8",
+                    "Img": "",
+                    "SeoCode": "fhsb",
+                    "MobileClassName": "家用理疗",
+                    "ParentID": "aa22d1bb-5e71-42df-897d-ce418d920b45",
+                    "Child": [
+                        {
+                            "Id": "ff5683d9-8925-42f5-8027-c32822a8b2f4",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ff5683d9-8925-42f5-8027-c32822a8b2f4.jpg",
+                            "SeoCode": "fhsbta",
+                            "MobileClassName": "鼻腔喷雾",
+                            "ParentID": "dc8b3172-6627-4463-9bb8-1e233c0c4ba8"
+                        },
+                        {
+                            "Id": "bfc004ab-afe7-41b9-abdc-7bbaac5ce566",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/bfc004ab-afe7-41b9-abdc-7bbaac5ce566.jpg",
+                            "SeoCode": "fhsbtb",
+                            "MobileClassName": "理疗贴",
+                            "ParentID": "dc8b3172-6627-4463-9bb8-1e233c0c4ba8"
+                        }
+                    ]
+                },
+                {
+                    "Id": "efb47a79-ef03-4665-8953-98a707b68fd6",
+                    "Img": "",
+                    "SeoCode": "fhsd",
+                    "MobileClassName": "家用保健",
+                    "ParentID": "aa22d1bb-5e71-42df-897d-ce418d920b45",
+                    "Child": [
+                        {
+                            "Id": "2e1e514b-deea-4917-8a79-13a188712937",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2e1e514b-deea-4917-8a79-13a188712937.jpg",
+                            "SeoCode": "fhsdta",
+                            "MobileClassName": "按摩仪",
+                            "ParentID": "efb47a79-ef03-4665-8953-98a707b68fd6"
+                        },
+                        {
+                            "Id": "3227da65-f1d0-495d-9f65-d8e16b5a0f51",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3227da65-f1d0-495d-9f65-d8e16b5a0f51.jpg",
+                            "SeoCode": "fhsdtb",
+                            "MobileClassName": "护腰/护膝",
+                            "ParentID": "efb47a79-ef03-4665-8953-98a707b68fd6"
+                        },
+                        {
+                            "Id": "d17e3915-9eb3-4c96-8794-10b61907d792",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d17e3915-9eb3-4c96-8794-10b61907d792.jpg",
+                            "SeoCode": "zuyupen",
+                            "MobileClassName": "足浴盆",
+                            "ParentID": "efb47a79-ef03-4665-8953-98a707b68fd6"
+                        },
+                        {
+                            "Id": "98ad84a3-2467-4268-9b33-b6d9a468c783",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/98ad84a3-2467-4268-9b33-b6d9a468c783.jpg",
+                            "SeoCode": "fhsdtd",
+                            "MobileClassName": "针灸/拔罐",
+                            "ParentID": "efb47a79-ef03-4665-8953-98a707b68fd6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "ac2e8094-c332-4118-8eda-f44697b5e5bc",
+            "Img": "",
+            "SeoCode": "fi",
+            "MobileClassName": "计生情趣",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "68ba2c2e-6e30-4fa1-85ff-ea522a92e293",
+                    "Img": "",
+                    "SeoCode": "fisb",
+                    "MobileClassName": "自用检测",
+                    "ParentID": "ac2e8094-c332-4118-8eda-f44697b5e5bc",
+                    "Child": [
+                        {
+                            "Id": "7681a286-148b-45bb-998c-a22c56d23545",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7681a286-148b-45bb-998c-a22c56d23545.jpg",
+                            "SeoCode": "fisbta",
+                            "MobileClassName": "验孕棒",
+                            "ParentID": "68ba2c2e-6e30-4fa1-85ff-ea522a92e293"
+                        },
+                        {
+                            "Id": "e14a2da3-b782-496f-9f43-9bce8d20b252",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e14a2da3-b782-496f-9f43-9bce8d20b252.jpg",
+                            "SeoCode": "fisbtb",
+                            "MobileClassName": "验孕试纸",
+                            "ParentID": "68ba2c2e-6e30-4fa1-85ff-ea522a92e293"
+                        },
+                        {
+                            "Id": "a4c9061a-4d36-4f6d-a5f8-a8287ae4bba2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a4c9061a-4d36-4f6d-a5f8-a8287ae4bba2.jpg",
+                            "SeoCode": "fisbtd",
+                            "MobileClassName": "排卵试纸",
+                            "ParentID": "68ba2c2e-6e30-4fa1-85ff-ea522a92e293"
+                        }
+                    ]
+                },
+                {
+                    "Id": "2039aa23-2716-4242-8643-24b56a995213",
+                    "Img": "",
+                    "SeoCode": "fisa",
+                    "MobileClassName": "避孕套",
+                    "ParentID": "ac2e8094-c332-4118-8eda-f44697b5e5bc",
+                    "Child": [
+                        {
+                            "Id": "c764f169-1d2c-405f-848e-ff8c7627aeae",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c764f169-1d2c-405f-848e-ff8c7627aeae.jpg",
+                            "SeoCode": "fisata",
+                            "MobileClassName": "杜蕾斯",
+                            "ParentID": "2039aa23-2716-4242-8643-24b56a995213"
+                        },
+                        {
+                            "Id": "bdd8a703-4594-4c4c-8bcc-16ca5c822792",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/bdd8a703-4594-4c4c-8bcc-16ca5c822792.jpg",
+                            "SeoCode": "fisatb",
+                            "MobileClassName": "冈本",
+                            "ParentID": "2039aa23-2716-4242-8643-24b56a995213"
+                        },
+                        {
+                            "Id": "58168bd4-fe1a-4a83-8245-447ec542b728",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/58168bd4-fe1a-4a83-8245-447ec542b728.jpg",
+                            "SeoCode": "diliugan",
+                            "MobileClassName": "第6感",
+                            "ParentID": "2039aa23-2716-4242-8643-24b56a995213"
+                        },
+                        {
+                            "Id": "d08b3f39-ba55-4cbd-b922-2e475bb254e0",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d08b3f39-ba55-4cbd-b922-2e475bb254e0.jpg",
+                            "SeoCode": "zc",
+                            "MobileClassName": "中川",
+                            "ParentID": "2039aa23-2716-4242-8643-24b56a995213"
+                        },
+                        {
+                            "Id": "5652bd3f-b46d-4ee0-8f6e-ad33f031d299",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5652bd3f-b46d-4ee0-8f6e-ad33f031d299.jpg",
+                            "SeoCode": "fisatd",
+                            "MobileClassName": "倍力乐",
+                            "ParentID": "2039aa23-2716-4242-8643-24b56a995213"
+                        },
+                        {
+                            "Id": "18d64a0c-0738-4b0e-ad44-e6b31db5419f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/18d64a0c-0738-4b0e-ad44-e6b31db5419f.jpg",
+                            "SeoCode": "mingliu",
+                            "MobileClassName": "名流",
+                            "ParentID": "2039aa23-2716-4242-8643-24b56a995213"
+                        }
+                    ]
+                },
+                {
+                    "Id": "07915f6a-681f-4aaf-a2d9-db7ef4a41058",
+                    "Img": "",
+                    "SeoCode": "fisd",
+                    "MobileClassName": "女用器具",
+                    "ParentID": "ac2e8094-c332-4118-8eda-f44697b5e5bc",
+                    "Child": [
+                        {
+                            "Id": "5183f265-7fd8-4278-8250-7c3e7bfae7d2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/5183f265-7fd8-4278-8250-7c3e7bfae7d2.jpg",
+                            "SeoCode": "fisdta",
+                            "MobileClassName": "震动棒",
+                            "ParentID": "07915f6a-681f-4aaf-a2d9-db7ef4a41058"
+                        },
+                        {
+                            "Id": "33e2c511-7abb-4aa4-b643-b4e7088d3576",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/33e2c511-7abb-4aa4-b643-b4e7088d3576.jpg",
+                            "SeoCode": "fisdtb",
+                            "MobileClassName": "仿真阳具",
+                            "ParentID": "07915f6a-681f-4aaf-a2d9-db7ef4a41058"
+                        },
+                        {
+                            "Id": "984cc4e8-16ec-4392-816f-1669e2f6a03b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/984cc4e8-16ec-4392-816f-1669e2f6a03b.jpg",
+                            "SeoCode": "fisdtd",
+                            "MobileClassName": "情趣跳蛋",
+                            "ParentID": "07915f6a-681f-4aaf-a2d9-db7ef4a41058"
+                        }
+                    ]
+                },
+                {
+                    "Id": "132c8d62-d337-4599-83f6-1ab0da35e762",
+                    "Img": "",
+                    "SeoCode": "fise",
+                    "MobileClassName": "男用器具",
+                    "ParentID": "ac2e8094-c332-4118-8eda-f44697b5e5bc",
+                    "Child": [
+                        {
+                            "Id": "c0052528-5cd5-415a-ace7-2078580f7d7b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c0052528-5cd5-415a-ace7-2078580f7d7b.jpg",
+                            "SeoCode": "fiseta",
+                            "MobileClassName": "震震环",
+                            "ParentID": "132c8d62-d337-4599-83f6-1ab0da35e762"
+                        },
+                        {
+                            "Id": "f80ef709-339a-490a-8319-cb6f24d58344",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f80ef709-339a-490a-8319-cb6f24d58344.jpg",
+                            "SeoCode": "fisetb",
+                            "MobileClassName": "延时环",
+                            "ParentID": "132c8d62-d337-4599-83f6-1ab0da35e762"
+                        },
+                        {
+                            "Id": "2a294904-e613-43f2-990b-b64ea902e95c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/2a294904-e613-43f2-990b-b64ea902e95c.jpg",
+                            "SeoCode": "fisetd",
+                            "MobileClassName": "名器倒模",
+                            "ParentID": "132c8d62-d337-4599-83f6-1ab0da35e762"
+                        }
+                    ]
+                },
+                {
+                    "Id": "b4ee10f3-c028-423b-a43a-b3fbd2c7465e",
+                    "Img": "",
+                    "SeoCode": "fisg",
+                    "MobileClassName": "延时润滑",
+                    "ParentID": "ac2e8094-c332-4118-8eda-f44697b5e5bc",
+                    "Child": [
+                        {
+                            "Id": "76fdae96-f501-47ce-8768-284fcdeae8db",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/76fdae96-f501-47ce-8768-284fcdeae8db.jpg",
+                            "SeoCode": "fisgta",
+                            "MobileClassName": "润滑液",
+                            "ParentID": "b4ee10f3-c028-423b-a43a-b3fbd2c7465e"
+                        },
+                        {
+                            "Id": "be14d965-7062-410f-80b2-41213ead06f2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/be14d965-7062-410f-80b2-41213ead06f2.jpg",
+                            "SeoCode": "fisgtb",
+                            "MobileClassName": "湿巾",
+                            "ParentID": "b4ee10f3-c028-423b-a43a-b3fbd2c7465e"
+                        },
+                        {
+                            "Id": "7fa08e19-50b5-453c-9917-9cb64af3f0ce",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/7fa08e19-50b5-453c-9917-9cb64af3f0ce.jpg",
+                            "SeoCode": "fisgtd",
+                            "MobileClassName": "延时喷剂",
+                            "ParentID": "b4ee10f3-c028-423b-a43a-b3fbd2c7465e"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "ddf91ad5-c6c6-40db-95d9-6b2e732f8d00",
+            "Img": "",
+            "SeoCode": "fj",
+            "MobileClassName": "家庭常备",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "f2da4e35-4e56-459f-86c7-81832d263461",
+                    "Img": "",
+                    "SeoCode": "fjsa",
+                    "MobileClassName": "家庭常备",
+                    "ParentID": "ddf91ad5-c6c6-40db-95d9-6b2e732f8d00",
+                    "Child": [
+                        {
+                            "Id": "ae392923-6b8b-4d02-b237-fc142a624398",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ae392923-6b8b-4d02-b237-fc142a624398.jpg",
+                            "SeoCode": "fjsata",
+                            "MobileClassName": "口罩",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "4f6fc0e1-a78e-45ac-b205-1b60a134c895",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4f6fc0e1-a78e-45ac-b205-1b60a134c895.jpg",
+                            "SeoCode": "fjsatd",
+                            "MobileClassName": "棉签",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "039496bc-8bfe-4c0c-bc60-fd9cf64c067e",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/039496bc-8bfe-4c0c-bc60-fd9cf64c067e.jpg",
+                            "SeoCode": "fjsate",
+                            "MobileClassName": "创可贴",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "e8e8a3f3-01e8-4f4d-9d5f-1f61896c6dda",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e8e8a3f3-01e8-4f4d-9d5f-1f61896c6dda.jpg",
+                            "SeoCode": "fjsatg",
+                            "MobileClassName": "退热贴",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "3d4800b4-1a89-4950-830d-babd599e75b7",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/3d4800b4-1a89-4950-830d-babd599e75b7.jpg",
+                            "SeoCode": "fjsatg",
+                            "MobileClassName": "晕车贴",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "97bf4eaf-da35-42fe-8cbf-3d24c6b7f4ed",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/97bf4eaf-da35-42fe-8cbf-3d24c6b7f4ed.jpg",
+                            "SeoCode": "fjsath",
+                            "MobileClassName": "驱蚊防虫",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "fa8e279a-89fa-4a35-8597-653ad10b196a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fa8e279a-89fa-4a35-8597-653ad10b196a.jpg",
+                            "SeoCode": "fjsatal",
+                            "MobileClassName": "绷带纱布",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "0735b86f-3f30-4b6e-aab5-c66fbd8beda2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0735b86f-3f30-4b6e-aab5-c66fbd8beda2.jpg",
+                            "SeoCode": "fjsataa",
+                            "MobileClassName": "胶带",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        },
+                        {
+                            "Id": "a9c19669-7823-47d6-bc46-ae21c8b26b6f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a9c19669-7823-47d6-bc46-ae21c8b26b6f.jpg",
+                            "SeoCode": "fjsatab",
+                            "MobileClassName": "其它",
+                            "ParentID": "f2da4e35-4e56-459f-86c7-81832d263461"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+            "Img": "",
+            "SeoCode": "yy",
+            "MobileClassName": "药品专区",
+            "ParentID": "00000000-0000-0000-0000-000000000000",
+            "Child": [
+                {
+                    "Id": "7bf7d8f7-accc-45e5-8156-1556a465a869",
+                    "Img": "",
+                    "SeoCode": "jt",
+                    "MobileClassName": "家中常备",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "a5ca1b9c-b7a3-4641-abdc-9e45261087b5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a5ca1b9c-b7a3-4641-abdc-9e45261087b5.jpg",
+                            "SeoCode": "qw",
+                            "MobileClassName": "驱蚊解暑",
+                            "ParentID": "7bf7d8f7-accc-45e5-8156-1556a465a869"
+                        },
+                        {
+                            "Id": "979ef54e-7e0c-4741-a7ac-18801f556601",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/979ef54e-7e0c-4741-a7ac-18801f556601.jpg",
+                            "SeoCode": "ck",
+                            "MobileClassName": "创口护理",
+                            "ParentID": "7bf7d8f7-accc-45e5-8156-1556a465a869"
+                        }
+                    ]
+                },
+                {
+                    "Id": "a4e23b4e-1faa-4a73-a3a6-71e1e722553e",
+                    "Img": "",
+                    "SeoCode": "zb",
+                    "MobileClassName": "滋补调养",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "de681f61-937f-4058-9509-34daf1cc755b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/de681f61-937f-4058-9509-34daf1cc755b.jpg",
+                            "SeoCode": "jf",
+                            "MobileClassName": "减肥瘦身",
+                            "ParentID": "a4e23b4e-1faa-4a73-a3a6-71e1e722553e"
+                        },
+                        {
+                            "Id": "a944122f-d39d-4183-b2ac-312f89c63b79",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a944122f-d39d-4183-b2ac-312f89c63b79.jpg",
+                            "SeoCode": "by",
+                            "MobileClassName": "补益安神",
+                            "ParentID": "a4e23b4e-1faa-4a73-a3a6-71e1e722553e"
+                        }
+                    ]
+                },
+                {
+                    "Id": "392cc1c2-b302-403d-ae2f-4c59ee9d2fd0",
+                    "Img": "",
+                    "SeoCode": "fk",
+                    "MobileClassName": "妇科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "d0e06227-8d47-453e-8a26-0efc5566ada1",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/d0e06227-8d47-453e-8a26-0efc5566ada1.jpg",
+                            "SeoCode": "yz",
+                            "MobileClassName": "妇科炎症",
+                            "ParentID": "392cc1c2-b302-403d-ae2f-4c59ee9d2fd0"
+                        },
+                        {
+                            "Id": "59e10e59-1990-4614-969d-52711656decc",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/59e10e59-1990-4614-969d-52711656decc.jpg",
+                            "SeoCode": "yj",
+                            "MobileClassName": "月经不调",
+                            "ParentID": "392cc1c2-b302-403d-ae2f-4c59ee9d2fd0"
+                        },
+                        {
+                            "Id": "a0f5c6df-75a8-43d8-a9b8-0e288da93d6a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/a0f5c6df-75a8-43d8-a9b8-0e288da93d6a.jpg",
+                            "SeoCode": "by",
+                            "MobileClassName": "避孕",
+                            "ParentID": "392cc1c2-b302-403d-ae2f-4c59ee9d2fd0"
+                        },
+                        {
+                            "Id": "1d4f75a6-4e3b-48b3-a780-f0e2eb0c354f",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1d4f75a6-4e3b-48b3-a780-f0e2eb0c354f.jpg",
+                            "SeoCode": "gnq",
+                            "MobileClassName": "更年期综合症",
+                            "ParentID": "392cc1c2-b302-403d-ae2f-4c59ee9d2fd0"
+                        },
+                        {
+                            "Id": "fc114fc9-7cb2-4656-89d8-76b2e1fd2dbc",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fc114fc9-7cb2-4656-89d8-76b2e1fd2dbc.jpg",
+                            "SeoCode": "yq",
+                            "MobileClassName": "孕期滋补",
+                            "ParentID": "392cc1c2-b302-403d-ae2f-4c59ee9d2fd0"
+                        }
+                    ]
+                },
+                {
+                    "Id": "a4bb9e0b-a3a3-4732-b0ff-b04626f9a0f7",
+                    "Img": "",
+                    "SeoCode": "nk",
+                    "MobileClassName": "男科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "86fe7b0d-0bfa-4a10-9d42-97031952db2c",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/86fe7b0d-0bfa-4a10-9d42-97031952db2c.jpg",
+                            "SeoCode": "bs",
+                            "MobileClassName": "补肾固本",
+                            "ParentID": "a4bb9e0b-a3a3-4732-b0ff-b04626f9a0f7"
+                        },
+                        {
+                            "Id": "ae1871f0-b715-4c1e-8c12-d566e8a9305a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/ae1871f0-b715-4c1e-8c12-d566e8a9305a.jpg",
+                            "SeoCode": "yw",
+                            "MobileClassName": "阳痿早泄",
+                            "ParentID": "a4bb9e0b-a3a3-4732-b0ff-b04626f9a0f7"
+                        }
+                    ]
+                },
+                {
+                    "Id": "05f848cc-155e-466f-bd89-b09227e5025f",
+                    "Img": "",
+                    "SeoCode": "pf",
+                    "MobileClassName": "皮肤科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "b1c98f71-6aee-42fa-b749-17a28de66886",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b1c98f71-6aee-42fa-b749-17a28de66886.jpg",
+                            "SeoCode": "qc",
+                            "MobileClassName": "痤疮（青春痘）",
+                            "ParentID": "05f848cc-155e-466f-bd89-b09227e5025f"
+                        },
+                        {
+                            "Id": "8cf8afbb-7e60-4ec5-800f-7ffbab86dfa6",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/8cf8afbb-7e60-4ec5-800f-7ffbab86dfa6.jpg",
+                            "SeoCode": "py",
+                            "MobileClassName": "皮炎湿疹",
+                            "ParentID": "05f848cc-155e-466f-bd89-b09227e5025f"
+                        },
+                        {
+                            "Id": "c942a653-1769-49f5-9f2e-6af056dc4b0a",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c942a653-1769-49f5-9f2e-6af056dc4b0a.jpg",
+                            "SeoCode": "tf",
+                            "MobileClassName": "男性脱发",
+                            "ParentID": "05f848cc-155e-466f-bd89-b09227e5025f"
+                        },
+                        {
+                            "Id": "b14a3a05-eb2d-48d2-88f2-45f04a469f37",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/b14a3a05-eb2d-48d2-88f2-45f04a469f37.jpg",
+                            "SeoCode": "szx",
+                            "MobileClassName": "手足癣",
+                            "ParentID": "05f848cc-155e-466f-bd89-b09227e5025f"
+                        },
+                        {
+                            "Id": "f9aec5d8-d58c-44c5-8513-90c65592b99e",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f9aec5d8-d58c-44c5-8513-90c65592b99e.jpg",
+                            "SeoCode": "st",
+                            "MobileClassName": "烧烫伤",
+                            "ParentID": "05f848cc-155e-466f-bd89-b09227e5025f"
+                        },
+                        {
+                            "Id": "0169712e-af92-40ed-b601-9a5cc4c731f7",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0169712e-af92-40ed-b601-9a5cc4c731f7.jpg",
+                            "SeoCode": "wc",
+                            "MobileClassName": "蚊虫叮咬",
+                            "ParentID": "05f848cc-155e-466f-bd89-b09227e5025f"
+                        }
+                    ]
+                },
+                {
+                    "Id": "6163b55f-3613-4204-8c87-f3ec93f0b2f2",
+                    "Img": "",
+                    "SeoCode": "xh",
+                    "MobileClassName": "消化科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "0c573271-cd75-4253-bd0a-3f5d71e627ee",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/0c573271-cd75-4253-bd0a-3f5d71e627ee.jpg",
+                            "SeoCode": "xh",
+                            "MobileClassName": "消化不良",
+                            "ParentID": "6163b55f-3613-4204-8c87-f3ec93f0b2f2"
+                        },
+                        {
+                            "Id": "92530742-f5c9-41c0-aeb1-0af0fe27972d",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/92530742-f5c9-41c0-aeb1-0af0fe27972d.jpg",
+                            "SeoCode": "bm",
+                            "MobileClassName": "便秘",
+                            "ParentID": "6163b55f-3613-4204-8c87-f3ec93f0b2f2"
+                        },
+                        {
+                            "Id": "9300dc7b-4197-4db0-85a6-268637b65840",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/9300dc7b-4197-4db0-85a6-268637b65840.jpg",
+                            "SeoCode": "zc",
+                            "MobileClassName": "痔疮",
+                            "ParentID": "6163b55f-3613-4204-8c87-f3ec93f0b2f2"
+                        },
+                        {
+                            "Id": "fa9303b6-816b-4739-9cdd-f62de8e44954",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/fa9303b6-816b-4739-9cdd-f62de8e44954.jpg",
+                            "SeoCode": "wy",
+                            "MobileClassName": "胃炎",
+                            "ParentID": "6163b55f-3613-4204-8c87-f3ec93f0b2f2"
+                        }
+                    ]
+                },
+                {
+                    "Id": "03dec1a3-aaa4-4bc0-8a85-301ec4612518",
+                    "Img": "",
+                    "SeoCode": "hxd",
+                    "MobileClassName": "呼吸道科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "09275ebb-9a34-4e52-a24a-5941d44938c5",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/09275ebb-9a34-4e52-a24a-5941d44938c5.jpg",
+                            "SeoCode": "gm",
+                            "MobileClassName": "感冒发烧",
+                            "ParentID": "03dec1a3-aaa4-4bc0-8a85-301ec4612518"
+                        }
+                    ]
+                },
+                {
+                    "Id": "731dbf8d-8fba-4227-94ab-72c2384d9b88",
+                    "Img": "",
+                    "SeoCode": "wg",
+                    "MobileClassName": "五官科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "cc425d58-3982-4c17-9d50-e856a2e8bdb2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/cc425d58-3982-4c17-9d50-e856a2e8bdb2.jpg",
+                            "SeoCode": "ypl",
+                            "MobileClassName": "眼睛疲劳干涩",
+                            "ParentID": "731dbf8d-8fba-4227-94ab-72c2384d9b88"
+                        },
+                        {
+                            "Id": "45a3b7ad-4ca9-48ba-9deb-941286f5f606",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/45a3b7ad-4ca9-48ba-9deb-941286f5f606.jpg",
+                            "SeoCode": "yz",
+                            "MobileClassName": "眼部炎症",
+                            "ParentID": "731dbf8d-8fba-4227-94ab-72c2384d9b88"
+                        },
+                        {
+                            "Id": "c7233d04-e29b-4bca-ad1d-e021fb6458af",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/c7233d04-e29b-4bca-ad1d-e021fb6458af.jpg",
+                            "SeoCode": "jx",
+                            "MobileClassName": "假性近视",
+                            "ParentID": "731dbf8d-8fba-4227-94ab-72c2384d9b88"
+                        },
+                        {
+                            "Id": "4453708d-6553-44c7-9954-64a403e74da8",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/4453708d-6553-44c7-9954-64a403e74da8.jpg",
+                            "SeoCode": "bnz",
+                            "MobileClassName": "白内障",
+                            "ParentID": "731dbf8d-8fba-4227-94ab-72c2384d9b88"
+                        },
+                        {
+                            "Id": "da524c0f-25ce-46d0-a323-576f3b80210b",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/da524c0f-25ce-46d0-a323-576f3b80210b.jpg",
+                            "SeoCode": "by",
+                            "MobileClassName": "鼻炎",
+                            "ParentID": "731dbf8d-8fba-4227-94ab-72c2384d9b88"
+                        }
+                    ]
+                },
+                {
+                    "Id": "381c6b2f-9cfb-4d65-86e2-a9da6841e3a1",
+                    "Img": "",
+                    "SeoCode": "wk",
+                    "MobileClassName": "维生素矿物质",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "618570d1-d2d6-4817-b7f3-068e46687e61",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/618570d1-d2d6-4817-b7f3-068e46687e61.jpg",
+                            "SeoCode": "wss",
+                            "MobileClassName": "补充维生素",
+                            "ParentID": "381c6b2f-9cfb-4d65-86e2-a9da6841e3a1"
+                        },
+                        {
+                            "Id": "f3623097-9ae5-4707-a247-bd90a74b5281",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/f3623097-9ae5-4707-a247-bd90a74b5281.jpg",
+                            "SeoCode": "myl",
+                            "MobileClassName": "提高免疫力",
+                            "ParentID": "381c6b2f-9cfb-4d65-86e2-a9da6841e3a1"
+                        }
+                    ]
+                },
+                {
+                    "Id": "9a958aea-2694-49a0-a60c-3a970cab5c3a",
+                    "Img": "",
+                    "SeoCode": "ek",
+                    "MobileClassName": "儿科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "e1b78af0-39d6-4682-86b5-3667801c3af9",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e1b78af0-39d6-4682-86b5-3667801c3af9.jpg",
+                            "SeoCode": "xewss",
+                            "MobileClassName": "小儿维生素",
+                            "ParentID": "9a958aea-2694-49a0-a60c-3a970cab5c3a"
+                        },
+                        {
+                            "Id": "545312f5-8fdc-4ab1-ad58-3192d919ebba",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/545312f5-8fdc-4ab1-ad58-3192d919ebba.jpg",
+                            "SeoCode": "wlys",
+                            "MobileClassName": "微量元素",
+                            "ParentID": "9a958aea-2694-49a0-a60c-3a970cab5c3a"
+                        },
+                        {
+                            "Id": "70cf2d8a-ea02-4604-9ca9-6016cd97a546",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/70cf2d8a-ea02-4604-9ca9-6016cd97a546.jpg",
+                            "SeoCode": "zkht",
+                            "MobileClassName": "止咳化痰",
+                            "ParentID": "9a958aea-2694-49a0-a60c-3a970cab5c3a"
+                        }
+                    ]
+                },
+                {
+                    "Id": "579650ba-5e07-41c8-89ed-6fd3f58cc689",
+                    "Img": "",
+                    "SeoCode": "fs",
+                    "MobileClassName": "风湿骨科",
+                    "ParentID": "0a74cb38-a614-4664-9a30-accb3da7d89e",
+                    "Child": [
+                        {
+                            "Id": "1d2f5852-8a40-40f1-b606-93ca792a74d2",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/1d2f5852-8a40-40f1-b606-93ca792a74d2.jpg",
+                            "SeoCode": "dd",
+                            "MobileClassName": "跌打损伤",
+                            "ParentID": "579650ba-5e07-41c8-89ed-6fd3f58cc689"
+                        },
+                        {
+                            "Id": "e8c734b9-937d-43ea-b728-cc9172228931",
+                            "Img": "https://pic.baishop.com/AppGoodsClassImage/e8c734b9-937d-43ea-b728-cc9172228931.jpg",
+                            "SeoCode": "tg",
+                            "MobileClassName": "外用贴膏",
+                            "ParentID": "579650ba-5e07-41c8-89ed-6fd3f58cc689"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "State": true,
+    "Msg": "",
+    "Code": 0
+}
