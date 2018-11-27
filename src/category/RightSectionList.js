@@ -38,7 +38,7 @@ export default class RightSectionList extends Component {
 						)
 					}
 					}
-					keyExtractor={(item, index) => index}
+					keyExtractor={(item) => item.Id}
 				/>)
 		}else {
 			return null;
@@ -54,7 +54,7 @@ export default class RightSectionList extends Component {
 				}
 				}
 				sections={this.props.data}
-				keyExtractor={(item, index) => index}
+				keyExtractor={(item) => item.Id}
 			/>
 		);
 	}
